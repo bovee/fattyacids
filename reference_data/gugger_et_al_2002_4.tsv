@@ -1,0 +1,13 @@
+Ref Loc	Species	Strain	Temp	Phase	C16:0	C18:0	C16:1ω7c	C16:1ω9c	C18:2ω6,9c	C18:3ω3,6,9c	C18:3ω6,9,12c	A-C12:0	A-C14:0	10Me-C16:0	OH-C16:0	10Me-C17:0	Br-C17:1	I-C18:0
+Table 5	Microcystis	199	20	Exponential	36.7	<1	2.7	<1	3.7	6.1	21.6		4.1	3.1		3.2		9.3
+Table 5	Microcystis	199	20		38.8	1.2	2.5	<1	3.3	5.2	19.6		4.1	1.1		3.4		10.9
+Table 5	Microcystis	265	20		33.5	<1	2.0	<1	7.4	14.5	8.3		3.6	3.4		3.0		16.7
+Table 5	Microcystis	265	20	Lag	31.9	1.2	2.0	1.2	3.5	18.5	5.7	1.3	1.5	1.1	1.3		<1	24.7
+Table 5	Microcystis	265	20	Exponential	34.4	3.9	2.4	1.6	3.1	15.2	4.4	1.6	7.1	<1		1.9	1.4	16.9
+Table 5	Planktothrix	2	20	Exponential	22.7	1	20.3	<1	13.8	27.0			6.8	<1		3.2		
+Table 5	Planktothrix	2	20	Lag	17.0		21.5		8.1	32.0	1.4	2.1	3.8		5.6	4.0	3.2	
+Table 5	Planktothrix	2	20	Exponential	17.2		25.4		9.8	39.9		2.2	2.8				1.9	
+Table 5	Planktothrix	2	20	Stationary	18.8	1.4	22.8		10.8	37.0		1.1	1.3	<1		1.9	<1	
+Table 5	Planktothrix	NC128/R	20	Exponential	22.0	<1	19.7		12.2	36.0	<1		1.8	1.7	<1	2.0		
+Table 5	Planktothrix	NC128/R	20	Lag	20.0	8.3	15.5		5.7	32.1		2.4	3.7		6.4		2.2	
+Table 5	Planktothrix	NC128/R	20	Exponential	14.3	<1	23.1		5.6	48.6			1.1	1.2		1.3	<1	

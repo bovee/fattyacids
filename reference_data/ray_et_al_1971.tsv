@@ -1,0 +1,7 @@
+Ref Loc	Species	Strain	Medium	Phase	Temp	C14:0	C16:0	C12:1	C15:1	I-C12:0	I-C13:0	I-C14:0	I-C15:0	I-C16:0	I-C17:0	A-C17:0
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	50	0.4	1.6	1.5	2.1	0.5	0.5	0.6	33.0	3.1	37.8	21.6
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	55	0.3	2.0	1.4	2.0	0.5	0.5	0.4	31.4	3.8	45.0	14.8
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	60	0.5	7.8	1.0	1.6	0.3	0.4	0.4	27.6	6.5	55.8	
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	65	0.5	10.6	0.5	1.4	0.4	0.7	0.4	29.5	7.3	52.4	
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	70	0.7	12.7	0.5	1.0	0.4	0.5	0.4	28.2	8.8	48.1	
+Table 1	Thermus aquaticus	ATCC 25104	Basal Salts	Exponential	75	0.4	16.7	0.6	0.5	0.4	0.5	0.4	30.5	14.0	35.8	

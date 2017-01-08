@@ -1,0 +1,22 @@
+Ref Loc	Species	Temp	Phase	C14:0	C16:0	C16:1	C16:1ω7t	C18:0	C18:1ω9t	C18:1ω7t	C18:1ω7c	C18:2ω6	C18:3ω3	C20:1ω9	C21:0	C20:2ω6	C22:1ω9c	C22:1ω11c	C20:5ω3	C22:5ω3	C22:5ω6	C22:6ω3
+Table 3	Pavlova lutheri	15	Exponential	35.07	37.84		20.34	1.8	2.64	1.25												
+Table 3	Pavlova lutheri	15	Early Stationary	19.74	36.62		11.08	10.89	10.37	3.95				3.87				7.52			1.49	
+Table 3	Pavlova lutheri	15	Late Stationary	15.16	40.98		33.41	1.16	2.82	1.44	0.42	2.5		0.35		0.24			1.07	0.43		
+Table 3	Isochrysis galbana	15	Exponential	23.24	37.49		19.77	6.01	5.02	2.19		1.94		1.9			2.43					
+Table 3	Isochrysis galbana	15	Early Stationary	17.32	40.84		32.63	1.29	2.49	2.18		1.56	0.22	0.34	0.35				0.51			0.26
+Table 3	Isochrysis galbana	15	Late Stationary	13.27	35.62		31.71	0.91	2.71	1.27		3.64			1.6				6.89			2.36
+Table 3	Heterosigma akashiwo	20	Exponential	16.74	62.46		20.8															
+Table 3	Heterosigma akashiwo	20	Early Stationary	10.49	62.68		21.42	2.45	2.96													
+Table 3	Heterosigma akashiwo	20	Late Stationary	8.02	61.44		17.25	1.77	2.31	1.3			1.37									
+Table 3	Tetraselmis suecica	15	Exponential	8.04	50.01	1.85	4.95	3.32	13.63	1.62				2.97								
+Table 3	Tetraselmis suecica	15	Early Stationary	2.35	48.08	0.53	3.6	2.04	24.87	2.53		1.43	1.02	2.53								
+Table 3	Tetraselmis suecica	15	Late Stationary	0.5	32.07	0.45	2.97	0.73	35.68	1.24		2.23	10.47		2.12				5.88			
+Table 3	Rhodomonas sp	15	Exponential	20.24	17.33	0.75	1.39	1.22	10.7	2.61		5.54	15.33	0.27	11.14				7.04			3.08
+Table 3	Rhodomonas sp	15	Early Stationary	32.43	30.83		2.24	1.52	8.77	3.52		3.41	4.74		1.77				0.91			
+Table 3	Rhodomonas sp	15	Late Stationary	29.89	26.4	0.73	1.25	1.39	12.2	2.56		5.2	8.36		2.3							0.86
+Table 3	Phaeodactylum tricornutum	15	Exponential	16.07	21.87	1.31	11.62	5.47	18.16	1.61		3.86		0.97	1.07				6.34			0.61
+Table 3	Phaeodactylum tricornutum	15	Early Stationary	12.68	14.06	0.21	19.21	1.74	19.18	1.27		2.97	0.6	0.47	0.74				14.94			1.07
+Table 3	Phaeodactylum tricornutum	15	Late Stationary	9.36	25.23	0.08	41.68	0.51	4.6	0.49		1.38	0.43		0.74				9.07			0.42
+Table 3	Chaetoceros calcitrans	15	Exponential	16.31	26.87		25.5	5.39	12.14	1.47		1.57			1.65				5.0			
+Table 3	Chaetoceros calcitrans	15	Early Stationary	16.33	26.11		32.46	1.11	0.87	0.34		0.36			3.36				7.76			0.94
+Table 3	Chaetoceros calcitrans	15	Late Stationary	23.21	25.9	0.16	24.25	1.16	1.05	0.68		0.34			2.94				7.27			0.78

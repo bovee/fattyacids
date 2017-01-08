@@ -1,0 +1,5 @@
+Ref Loc	Species	Strain	Temp	Medium	C14:0	C16:1	C16:0	C17:1	C17:0	C18:1	C18:2	C18:0	11,12Cyc-C19:0	C20:4	C20:3	10Oxo-C18:0	10OH-C18:0
+Table 1	Lactobacillus reuteri	CRL 1098	37	MRS broth	1	0.5	45.3	0.1	<0.05	17.6	12.5	13.6			<0.05	<0.05	9.1
+Table 1	Lactobacillus reuteri	CRL 1098	37	MRS broth with oxgall-bile salts	0.5	1.7	15.9	1.0	0.5	34.0	9.6	9.7	6.0	2.3	2	8.9	7.5
+Table 1	Lactobacillus reuteri	CRL 1098	37	MRS broth with cholesterol	1	<0.05	38.7	0.5	0.9	15.8	11.2	15.5	16.0				
+Table 1	Lactobacillus reuteri	CRL 1098	37	MRS broth with oxgall-bile salts and cholesterol	<0.05	<0.05	16.1	0.8	0	29.8	22.5	8.1	6.1			9	7.2

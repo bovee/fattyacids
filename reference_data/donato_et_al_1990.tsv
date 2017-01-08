@@ -1,0 +1,29 @@
+Ref Loc	Species	Strain	Temp	Phase	I-C14:0	C14:0	I-C15:0	A-C15:0	C15:0	C15:1	I-C16:0	C16:0	C16:1	I-C17:0	A-C17:0	C17:0	Unknown
+Table 2	Thermus filiformis		45	Late Exp	1		7.2	31.5			6.2	1.2	1.3	7.6	42.9	1	
+Table 2	Thermus filiformis		60	Late Exp	<1		5.0	30.1			6.3	<1	<1	7.1	49.0	<1	<1
+Table 2	Thermus filiformis		70	Late Exp	1		6.6	30.6			7.8	1	1.2	7.3	43.3	1.4	
+Table 2	Thermus filiformis		73	Late Exp	<1	<1	5.6	22.5	<1		8.9	1.7	<1	9.2	48.6	1	<1
+Table 2	Thermus filiformis		75	Late Exp	1.4	<1	4.6	21.9	<1		14.1	5.1	<1	5.2	40.3	3.1	<1
+Table 2	Thermus thermophilus	HB-8; ATCC 27634	60	Late Exp	2.6	<1	33.6	11.7	<1		11.5	1.6	1	25.4	11.2	<1	<1
+Table 2	Thermus thermophilus	HB-8; ATCC 27634	73	Late Exp	<1		30.1	7.6	<1	<1	4.4	1		44.9	10.5		
+Table 1	Thermus aquaticus	YT-1; ATCC 25104	73	Late Exp			26.2	3.8			7.1	7.4		46.6	7.4	1	
+Table 1	Thermus	SPS-8	73	Late Exp			55.6	7.4	2.1		1.5	<1		29.2	2.9		
+Table 1	Thermus	SPS-114	73	Late Exp			56.3	8.3	1.9		1.4	<1		27.1	3.3	<1	
+Table 1	Thermus oshimui	SPS-17	73	Late Exp			43.3	6.8	2		3	<1		36.9	5.3	1	
+Table 1	Thermus	SPS-18	73	Late Exp			52.7	7.4	5.2		1.7	<1	<1	25.1	3.1	1	
+Table 1	Thermus	VI-5b24	70	Late Exp	<1		60.5	8.2	3.5		2.4			22.1	2.1		
+Table 1	Thermus	VI-7a4	70	Late Exp			58.2	9.2	1.9		<1			26.0	2.4		
+Table 1	Thermus	VI-124	70	Late Exp			53.9	8.1	2.1		1			29.3	4.3	<1	
+Table 1	Thermus	VI-134	73	Late Exp			50.6	6.6	<1		<1	1.1	<1	34.2	3.3	2	
+Table 1	Thermus	AS-1	70	Late Exp			55.4	10.2	2.1		1.7			25.2	4.0		
+Table 1	Thermus	CB-l	70	Late Exp			58.6	7.1	2.3		1.4	<1		25.9	2.3		<1
+Table 1	Thermus	CG-2	73	Late Exp	1.3		35.7	8.7	1		11.4	1.8	<1	31.5	6.3		
+Table 1	Thermus	FQ-3	70	Late Exp	1.3		34.2	7.3	<1		15.7	1	<1	32.3	5.9	<1	<1
+Table 1	Thermus	LFC-l	73	Late Exp			25.1	10.2	<1		4.9	<1		41.9	14.7		
+Table 1	Thermus	LFF-l	73	Late Exp	<1		60.7	11.2	2.6		2.3	<1		19.1	2.3		
+Table 1	Thermus	RQ-l	73	Late Exp	1.1		13.6	11.0			15.9	2.6	<1	30.2	22.7	<1	<1
+Table 1	Thermus	RQ-2	73	Late Exp	1	2.4	38.8	11.8	3.2	1.3	3.7	3	5.4	14.8	3.3	2.9	1.3
+Table 1	Thermus	RQ-3	73	Late Exp	1		13.0	11.0	<1		15.8	2.9	1	30.6	23.0	<1	1
+Table 1	Meiothermus ruber	ATCC 35948	60	Late Exp	<1	<1	69.6	6.6	1.2		1.3	1.7	1.3	12.3	2.3	1.8	
+Table 1	Thermus rubens	ATCC 31556	60	Late Exp			59.6	4.0	1.6		1.5	1.9	1.3	21.4	3.9	2.4	
+Table 1	Thermus	EG-3	60	Late Exp			54.0	13.2	1.6		<1	<1	<1	15.8	11.0	<1	

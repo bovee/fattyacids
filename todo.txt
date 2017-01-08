@@ -1,0 +1,72 @@
+References left to enter
+------------------------
+Mercer et al 1974	Table 4	Xanthophyceae
+Nichols et al 1987 Phyto	Table 3	Flagellates
+Cranwell et al 1988	Table 5	Chrysophytes
+Piorreck et al 1984	Table 8	Algae
+Piorreck et al 1984	Table 9	Algae
+Johns et al 1979	Table 1	Rhodophyta
+Johns et al 1979	Table 2	Phaeophyta
+Johns et al 1979	Table 3	Chlorophyta
+Jamieson and Reid 1972	Table 1	Rhodophyta
+Jamieson and Reid 1972	Table 3	Phaeophyta
+Jamieson and Reid 1972	Table 5	Chlorophyta
+Ben-Amotz et al 1987	Table 3	Unicellular marine algae
+Ben-Amotz et al 1987	Table 4	Rotifer
+Ben-Amotz et al 1987	Table 5	Plankton
+Dunstan et al 1993	Table 2	Microalgae
+Sukenik and Wahnon 1991	Table 1	Isochrysis galbana
+Sukenik and Wahnon 1991	Table 2	Isochrysis galbana
+Hodgson et al 1991	Table 1	Nanochloropsis oculata
+Hodgson et al 1991	Table 3	Nanochloropsis oculata
+Hodgson et al 1991	Table 4	Nanochloropsis oculata
+Klyachko-Gurvich et al 1994	Table 2	Porphyridium
+Klyachko-Gurvich et al 1994	Table 3	Porphyridium
+Klyachko-Gurvich et al 1994	Table 4	Porphyridium
+Harrington et al 1970	Table 2	Dinoflagellates
+Zhilina et al 1997	Table 1	Alkaliphilic SRB
+Zhilina et al 1997	Figure 1	Bacteroidetes
+Ivanova et al., 2000	Table 2	Pseudomonads
+
+References to Find
+------------------
+Orcutt and Patterson 1975 Comp Biochem Physiol	???	Diatoms	
+Kroppenstedt and Kutzner 1978	???	actinomycetales	
+Yang, Vauterin, Vancanneyt, Kersters 1993	???	Xanthomonas	
+Chuecas and Riley 1969	???	Marine phytoplankton	
+Kates 1964 “Bacterial lipids”	???	Gram Negative bacteria	
+Nedashkovskaya et al 2004	???	Algoriphagus sp	
+Zhukova and Aizdaicher 1995 Phytochemistry	???	marine microalgae	
+Chuecas and Riley 1966 J Mar Bio Assoc U.K	???	Marine algae	
+Collins and Kalnins 1969 Phyton 	???	Cryptomonads	
+Ben-Amotz et al 1985	???	Microalgae	
+Joseph 1975 Lipids	???	Dinoflagellates	
+Kato et al 1996 Phytochemistry	???	Marine algae	
+López Alonso et al 1998 Phytochem	???	Microalgae	
+López Alonso et al 2000 Phytochem	???	Phaeodactylum tricornutum	
+Mansour et al 2003 Phytochem	???	Gymnodinium sp	
+Renaud et al 1999 Aquaculture	???	microalgae	
+Renaud et al 2002 Aquaculture	???	microalgae	
+Skerratt et al 1998 Phytochem	???	antarctic marine phytoplankton	
+Thompson et al 1992 J Phycology	???	Marine phytoplankton	
+Volkman et al 1981 J Mar Biol Assoc UK	???	Haptophytes	
+Tonon et al 2002 Phytochem	???	Microalgae	
+Miyagawa et al 1979 J Gen Microbiol	???	Anaerobic bacteria	
+Vainshtein et al 1992 Sys Appl Micro	???	Desulfovibrio	
+Calhoon et al 1983 J Dental Res	???	Oral Fusobacteria	
+Moule and Wilkinson 1987 Sys Appl Micro	???	Alteromonas	
+Svetashev et al 1995 Sys Appl Micro	???	Alteromonas	
+Fang et al 2003	???	Piezophiles	Paper in zotero
+Yano et al 1998	???	Piezophiles	Paper in zotero
+Nichols et al 1993	???	Piezophiles	Paper in zotero
+
+
+Bad References
+--------------
+Bowman et al 1997	Table 4	Average of Shewanella species FA (only ranges left)	
+Bowman et al 1993	Table 5	Methanotrophs	Only ranges presented (without means)
+Mergaert et al 2003	Table 4	Thermomonas fusca & Thermomonas brevis	Only ranges presented (without means)
+Oliver and Colwell 1973	Table 3,4,5,7	3SE8, 3SE7, 3S2	Table 2&6 already entered; no taxonomy on these three
+Oró et al 1967	Table 2	3 environmental mixed communities left	
+Skerratt et al, 1992	Table 2	Only OH FA from methane-using bacteria	
+Parker et al 1967	Table 3	Marine bacteria; no taxonomic assignments	

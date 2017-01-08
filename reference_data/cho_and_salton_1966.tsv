@@ -1,0 +1,26 @@
+Ref Loc	Species	Strain	Notes	C12:0	C13:0	C14:0	C15:0	C16:0	C17:0	C18:0	C14:1	C16:1	C18:1	C18:2	I-C15:0	A-C15:0	I-C17:0	A-C17:0	I-C18:0	Cyc-C17:0	Cyc-C19:0	Neo-C18:0	Br-C14:0	Br-C16:0	Br-C17:0	Br-C19:0	Unknown
+Table 1	Chromobacterium violaceum		Whole cells	0.3		1.8		43.4		1.2	<0.1	37.5	15.0									0.8					
+Table 1	Chromobacterium violaceum		Cell envelope			1.7		35.8		0.4		52.7	9.4														
+Table 1	Rhodospirillum rubrum		Whole cells			2		25.5		1.6		16.4	54.0														0.5
+Table 1	Rhodospirillum rubrum		Cell envelope			10.9		48.9		0.6		9.2	14.1												4.3		12.0
+Table 2	Bacillus licheniformis		Membrane			4.2		3.9		0.2		12.0	1.1			50.4									28.2		
+Table 2	Bacillus stearothemophilus		Membrane			2.9		3.1	11.1	1.2	4.2	23.5	1.2			30.7									22.1		
+Table 2	Lysinibacillus macroides		Membrane	2.0		2		5.5		0.5					0.4	72.2	0.4						6.9	3.3	7.6		
+Table 2	Micrococcus lysodeikticus		Membrane	0.4		4.4		0.2		<0.2						85.4		2.6						5.0			
+Table 2	Sarcina lutea		Membrane			1.8		1.5		2.5		1.3	3.6			80.2		1.3					6.0	1.8			
+Table 2	Enterobacter aerogenes		Envelope			5.7		56.4	3.8			5.7	9.6	18.6													
+Table 2	Acinetobacter calcoaceticus subsp. anitratus		Envelope	5.9		0.7	2.5	52.8		2.5		9.9	25.7														
+Table 2	Chromobacterium violaceum	ND	Envelope			1.7		35.8		0.4		52.7	9.4														
+Table 2	Chromobacterium violaceum	9	Envelope			4.1		44.2		1.4		44.2	6.1														
+Table 2	Escherichia alkalescens		Envelope			5.3	3.5	46				5.3	1.5												26.4	12.0	
+Table 2	Escherichia coli	B	Envelope			6.8	0.8	42		1.7	2.1	2.3	25.7														18.6
+Table 2	Escherichia dispar	4169	Envelope	16.4	10.4	10	10.2	36.6	1.3	2.3		1.0	10.3						1.5								
+Table 2	Halobacterium halobium		Envelope			<0.1		<0.1																			
+Table 2	Photobacterium albensis		Envelope			3.7		25.9	2.5	4.7		41.0	22.2														
+Table 2	Pseudomonas sp		Envelope	2.6		3.5	4.2	49.5	8.1	8.6	2.9	18.3	2.3														
+Table 2	Pseudomonas sp		Envelope			3		42.6	1.3	1		40.7	9.0	2.4													
+Table 2	Rhodospirillum rubrum		Envelope			10.9		48.9		0.6		9.2	14.1												4.3		12.0
+Table 2	Salmonella gallinarum		Envelope	2.9	5.9	9.1	3.8	49		2	3.8	4.7	2.0														16.8
+Table 2	Serratia marcescens		Envelope			10.5	1.3	55.5		6.1		0.9	3.1	2.6						19.7	0.3						
+Table 2	Serratia marcescens	2446	Envelope			4.9	1.5	49.7				3.7	12.2	5.8		0.6											21.6
+Table 2	Vibrio metchnikovii		Envelope			3.3	2.5	54.4		3.7		16.2	16.2												3.7		

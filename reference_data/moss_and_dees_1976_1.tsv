@@ -1,0 +1,9 @@
+Ref Loc	Species	N	Temp	Medium	C12:0	C14:0	C15:0	C16:1	C16:0	C17:0	C18:1	C18:0	C19:0	3OH-C10:0	2OH-C12:0	3OH-C12:0	2OH-C14:0	3OH-C14:0	2OH-C16:0	3OH-C16:0	Cyc-C17:0	Cyc-C19:0
+Table 2	Pseudomonas aeruginosa	7	37	Trypticase soy agar	6.0	<2	<2	17	20	<2	25	<2	<2	5.0	9.0	2.0					5	11.0
+Table 2	Pseudomonas putida	4	37	Trypticase soy agar	5.0	2	2	18	20	<2	25	<2	<2	5.0	8.0	2.0					5	8.0
+Table 2	Pseudomonas fluorescens	4	37	Trypticase soy agar	5.0	<2	<2	18	22	<2	26	<2	<2	5.0	8.0	2.0					5	9.0
+Table 2	Pseudomonas cepacia	8	37	Trypticase soy agar		5	2	7	20	<2	19	2	2				<2	5.0	4.0	5.0	17	12.0
+Table 2	Pseudomonas pseudomallei	8	37	Trypticase soy agar		6	<2	8	22	<2	16	<2	2				<2	7.0	5.0	3.0	17	14.0
+Table 2	Pseudomonas stutzeri	7	37	Trypticase soy agar	12.0	3	4	15	23	2	25	2		5.0		2.0					7	
+Table 2	Pseudomonas mendocina	7	37	Trypticase soy agar	12.0	2	3	16	24	2	25	<2		5.0		2.0					9	
+Table 2	Pseudomonas pseudoalcaligenes	8	37	Trypticase soy agar	15.0	<2	<2	18	22	<2	26	<2		5.0		2.0					8	
