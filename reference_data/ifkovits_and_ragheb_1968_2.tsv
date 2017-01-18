@@ -1,23 +1,23 @@
-Ref Loc	Species	Strain	Temp	C11:0	C11:1	C12:0	A-C13:0	C13:0	C13:1	I-C14:0	C14:0	C14:1	I-C15:0	A-C15:0	I-C15:1	C15:0	C15:1	I-C16:0	I-C16:1	C16:0	C16:1	I-C17:0	A-C17:0	I-C17:1	C17:0	C17:1	I-C18:0	A-C18:0	C18:0	C18:1	I-C19:0	C19:0	C19:1	Cyc-C19:0	I-C20:0	Other
-Table 4	Succinimonas amylolytica	N6	39			4.8		1.6		1.6	4.4		52.6			5.0		5.3		7.5		10.8						2.2		4.0						
-Table 4	Butyrivibrio fibrisolvens	A38	39			4.1		2.6		2.2	2.8					4.8	2.2			34.5	8.8	5.4			5.4		4.8	2.8	2.1	9.4	5.2					
-Table 4	Butyrovibrio fibrisolvens	D1	39			2.5		2.2		1.9	2.5		2.6			3.6				34.0	8.0	6.0			4.9		5.2	3.3	3.8	11.8	7.7					
-Table 4	Lachnospira multiparus	40	39			4.5		1.6		2.8	15.5	5.1				1.6				35.0	13.5								2.2	7.6						16.6
-Table 4	Succinivibrio dextrinosolvens	24	39		2.6	3.2	2.8			4.7	22.4	4.2		21.8		10.8		10.8		7.2			8.8					2.3								
-Table 4	Selenomonas ruminantium	HD1	39	6.8		3.2		6.2		2.0	2.2		3.2			18.0	27.0			2.2	3.5				2.7	11.5			7.5							6.5
-Table 4	Bacteroides amylophilus	78	39			7.0		1.2			18.2	2.4				1.4				31.7	5.6									22.5		4.8		1.6		2.8
-Table 4	Bacteroides symbiosus	ATCC 14940	39			2.6		1.6		1.6	2.0		2.2			10.8				21.5	8.2	7.3			15.4	12.3			3.6	7.0			3.9			
-Table 4	Bacteroides succinogenes	S85	39			4.4	8.9	19.8	12.5	3.8	9.0	2.9		4.9		25.6		3.0		2.7	2.3															
-Table 4	Bacteroides succinogenes	B21A	39			8.2	6.6	14.2		4.4	6.0			7.7		35.1		7.2		6.2	2.4							2.8								
-Table 4	Bacteroides succinogenes	A3c	39			2.5	2.6	19.5	13.7	2.9	6.5	2.5		3.0		27.6		1.8		3.0	1.3				1.2			1.8						8.1		
-Table 4	Fusobacterium	9-21	39			2.8							58.4			6.8		5.6		10.0		11.6							4.0	3.7						
-Table 4	Peptostreptococcus elsdenii	B159	39			17.2		4.0		4.0	4.8			6.0						11.6	8.6				3.8			5.2	4.4	11.4		3.6		3.9		11.5
-Table 4	Ruminococcus flavefaciens	C1a	39			7.6				4.2			53.5					6.3		5.7		8.6	7.5					4.7								4.4
-Table 4	Ruminococcus flavefaciens	B34b	39			6.4				3.0			37.6		11.4	6.2	3.9	3.6	2.5	1.8		6.6		6.0				6.6					3.4			3.4
-Table 4	Ruminococcus flavefaciens	C94	39			6.8				4.7	4.7		29.5					14.5	9.7	7.4	5.8			5.7				8.2								2.9
-Table 4	Ruminococcus flavefaciens	FD1	39			2.7				3.2	3.6		28.6		14.5	11.3	7.0			12.5	3.0			1.8				2.6	3.0	2.7						1.6
-Table 4	Ruminococcus albus	D89	39			3.4				21.4	7.9	1.2		9.6		8.9		7.0		23.2									1.9							14.6
-Table 4	Ruminococcus albus	7	39			3.0				13.2	2.9	2.8		6.4		6.8		12.4		29.1	1.6	2.2	2.4		2.4				3.1							11.6
-Table 4	Streptococcus bovis		39			3.2		1.4		1.2	8.0	2.8				1.9				31.8	12.3							8.1	6.9	22.3						
-Table 4	Eubacterium ruminantium	B1C23	39			2.3		5.4	2.9		10.4	3.5	17.7			49.0				5.8			1.4		1.5											
-Table 4	Lactobacillus	GA1	39			3.8		1.6		1.4	4.6									32.4	17.8							2.9		9.2				14.0	3.6	8.9
+Tax ID	Species	Strain	Temp	C11:0	C11:1	C12:0	A-C13:0	C13:0	C13:1	I-C14:0	C14:0	C14:1	I-C15:0	A-C15:0	I-C15:1	C15:0	C15:1	I-C16:0	I-C16:1	C16:0	C16:1	I-C17:0	A-C17:0	I-C17:1	C17:0	C17:1	I-C18:0	A-C18:0	C18:0	C18:1	I-C19:0	C19:0	C19:1	Cyc-C19:0	I-C20:0	Other
+83769	Succinimonas amylolytica	N6	39			4.8		1.6		1.6	4.4		52.6			5.0		5.3		7.5		10.8						2.2		4.0						
+831	Butyrivibrio fibrisolvens	A38	39			4.1		2.6		2.2	2.8					4.8	2.2			34.5	8.8	5.4			5.4		4.8	2.8	2.1	9.4	5.2					
+831	Butyrivibrio fibrisolvens	D1	39			2.5		2.2		1.9	2.5		2.6			3.6				34.0	8.0	6.0			4.9		5.2	3.3	3.8	11.8	7.7					
+28051	Lachnospira multiparus	40	39			4.5		1.6		2.8	15.5	5.1				1.6				35.0	13.5								2.2	7.6						16.6
+83771	Succinivibrio dextrinosolvens	24	39		2.6	3.2	2.8			4.7	22.4	4.2		21.8		10.8		10.8		7.2			8.8					2.3								
+971	Selenomonas ruminantium	HD1	39	6.8		3.2		6.2		2.0	2.2		3.2			18.0	27.0			2.2	3.5				2.7	11.5			7.5							6.5
+867	Bacteroides amylophilus	78	39			7.0		1.2			18.2	2.4				1.4				31.7	5.6									22.5		4.8		1.6		2.8
+1512	Bacteroides symbiosus	ATCC 14940	39			2.6		1.6		1.6	2.0		2.2			10.8				21.5	8.2	7.3			15.4	12.3			3.6	7.0			3.9			
+833	Bacteroides succinogenes	S85	39			4.4	8.9	19.8	12.5	3.8	9.0	2.9		4.9		25.6		3.0		2.7	2.3															
+833	Bacteroides succinogenes	B21A	39			8.2	6.6	14.2		4.4	6.0			7.7		35.1		7.2		6.2	2.4							2.8								
+833	Bacteroides succinogenes	A3c	39			2.5	2.6	19.5	13.7	2.9	6.5	2.5		3.0		27.6		1.8		3.0	1.3				1.2			1.8						8.1		
+848	Fusobacterium	9-21	39			2.8							58.4			6.8		5.6		10.0		11.6							4.0	3.7						
+907	Peptostreptococcus elsdenii	B159	39			17.2		4.0		4.0	4.8			6.0						11.6	8.6				3.8			5.2	4.4	11.4		3.6		3.9		11.5
+1265	Ruminococcus flavefaciens	C1a	39			7.6				4.2			53.5					6.3		5.7		8.6	7.5					4.7								4.4
+1265	Ruminococcus flavefaciens	B34b	39			6.4				3.0			37.6		11.4	6.2	3.9	3.6	2.5	1.8		6.6		6.0				6.6					3.4			3.4
+1265	Ruminococcus flavefaciens	C94	39			6.8				4.7	4.7		29.5					14.5	9.7	7.4	5.8			5.7				8.2								2.9
+1265	Ruminococcus flavefaciens	FD1	39			2.7				3.2	3.6		28.6		14.5	11.3	7.0			12.5	3.0			1.8				2.6	3.0	2.7						1.6
+1264	Ruminococcus albus	D89	39			3.4				21.4	7.9	1.2		9.6		8.9		7.0		23.2									1.9							14.6
+1264	Ruminococcus albus	7	39			3.0				13.2	2.9	2.8		6.4		6.8		12.4		29.1	1.6	2.2	2.4		2.4				3.1							11.6
+1335	Streptococcus bovis		39			3.2		1.4		1.2	8.0	2.8				1.9				31.8	12.3							8.1	6.9	22.3						
+42322	Eubacterium ruminantium	B1C23	39			2.3		5.4	2.9		10.4	3.5	17.7			49.0				5.8			1.4		1.5											
+1578	Lactobacillus	GA1	39			3.8		1.6		1.4	4.6									32.4	17.8							2.9		9.2				14.0	3.6	8.9

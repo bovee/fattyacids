@@ -1,3 +1,3 @@
-Ref Loc	Species	Strain	Temp	Phase	C12:0	C14:0	C16:1ω8c	C16:1ω7c	C16:1ω6c	C16:1ω5c	C16:1ω5t	C16:0
-Table 1	Methylosarcina fibrata	AML-C10; ATCC 700909; DSM 13736	30	Late Exp	2.7	2.1	14.1	24.8	6.7		30.0	19.7
-Table 1	Methylosarcina quisquiliarum	AML-D4; ATCC 700908; DSM 13737	30	Late Exp	3.8	1.2	15.9	32.2	9.1	0.7	18.9	18.3
+Tax ID	Species	Strain	Temp	Phase	C12:0	C14:0	C16:1ω8c	C16:1ω7c	C16:1ω6c	C16:1ω5c	C16:1ω5t	C16:0
+105972	Methylosarcina fibrata	AML-C10; ATCC 700909; DSM 13736	30	Late Exp	2.7	2.1	14.1	24.8	6.7		30.0	19.7
+105973	Methylosarcina quisquiliarum	AML-D4; ATCC 700908; DSM 13737	30	Late Exp	3.8	1.2	15.9	32.2	9.1	0.7	18.9	18.3

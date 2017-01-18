@@ -1,25 +1,25 @@
-Ref Loc	Species	Strain	Original Ref	Temp	Medium	C14:0	C16:0	C18:0	C16:1	C18:1	Cyc-C19:0
-Table 3	Chromatium purpuratum	5500	Imhoff and Thiemann 1991		5% salts	0.6	30.3	1.7	28.2	38.5	
-Table 3	Thiocapsa roseop.	9314	Takacs and Holt 1971			<0.1	20.0	<0.1	28	45.0	
-Table 3	Thiocapsa roseop.	6311	Imhoff 1988			0.4	22.1	0.9	25.4	43.8	
-Table 3	Allochromatium vinosum	D	Haverkate et al 1965			<0.1	28.7	<0.1	32.6	38.7	
-Table 3	Allochromatium vinosum	D	Imhoff 1988			0.7	18.9	0.7	36.2	39.3	
-Table 3	Thiocystis minor	1211	Imhoff and Bias-Imhoff 1995			0.3	20.5	1.2	30.4	43.8	
-Table 3	Allochromatium warmingii	6512	Imhoff and Bias-Imhoff 1995			1.3	25.7	0.8	36.5	32.3	
-Table 3	Thiocystis gelatinosa	2611	Imhoff and Bias-Imhoff 1995			0.6	22.9	1.2	30.5	39.5	
-Table 3	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		10% salts	0.8	25.4	8.6	1.2	63.8	
-Table 3	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		20% salts	0.7	22.0	5.6	1.6	69.4	
-Table 3	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		30% salts	0.9	24.9	6.9	2.2	63.8	
-Table 3	Ectothiorhodospira halophila	SL1	Imhoff and Bias-Imhoff 1995				11.4	8.7	0.9	63.8	7.3
-Table 3	Ectothiorhodospira halophila	9630	Asselineau and Truper 1982			1	16.0	15	1	33.0	31
-Table 3	Ectothiorhodospira halochloris	9850	Imhoff 1988			0.4	18.9	7.5	0.4	69.7	1
-Table 3	Ectothiorhodospira halochloris	9850	Asselineau and Truper 1982			<0.1	19.0	7	<0.1	51.0	18
-Table 3	Ectothiorhodospira abdelmalekii	9840	Imhoff and Bias-Imhoff 1995			0.3	24.7	5.4	1.8	58.9	6.3
-Table 3	Ectothiorhodospira abdelmalekii	9840	Asselineau and Truper 1982			0.5	16.0	4	3	57.0	10
-Table 3	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	27.0	5% salts	0.2	14.0	4.8	5.5	72.3	<0.1
-Table 3	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	36.0	5% salts	0.2	20.7	9.6	4.6	62.2	0.4
-Table 3	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	42.0	5% salts	0.5	23.1	10.9	3.4	59.7	0.3
-Table 3	Ectothiorhodospira shaposhnikovii	N1	Asselineau and Truper 1982			<0.1	17.0	<0.1	8	68.0	
-Table 3	Ectothiorhodospira shaposhnikovii	N1	Imhoff and Bias-Imhoff 1995			0.1	13.1	2	6.8	74.7	
-Table 3	Ectothiorhodospira vacuolata DSM 2111	DSM 2111	Imhoff and Bias-Imhoff 1995				15.3	2.4	4.8	73.5	
-Table 3	Ectothiorhodospira vacuolata DSM 2111	DSM 2111	Asselineau and Truper 1982			<0.1	20.0	7	6	60.0	
+Tax ID	Species	Strain	Original Ref	Temp	Medium	C14:0	C16:0	C18:0	C16:1	C18:1	Cyc-C19:0
+37487	Chromatium purpuratum	5500	Imhoff and Thiemann 1991		5% salts	0.6	30.3	1.7	28.2	38.5	
+1058	Thiocapsa roseopersicina	9314	Takacs and Holt 1971			<0.1	20.0	<0.1	28	45.0	
+1058	Thiocapsa roseopersicina	6311	Imhoff 1988			0.4	22.1	0.9	25.4	43.8	
+1049	Allochromatium vinosum	D	Haverkate et al 1965			<0.1	28.7	<0.1	32.6	38.7	
+1049	Allochromatium vinosum	D	Imhoff 1988			0.7	18.9	0.7	36.2	39.3	
+61597	Thiocystis minor	1211	Imhoff and Bias-Imhoff 1995			0.3	20.5	1.2	30.4	43.8	
+61595	Allochromatium warmingii	6512	Imhoff and Bias-Imhoff 1995			1.3	25.7	0.8	36.5	32.3	
+46450	Thiocystis gelatinosa	2611	Imhoff and Bias-Imhoff 1995			0.6	22.9	1.2	30.5	39.5	
+1053	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		10% salts	0.8	25.4	8.6	1.2	63.8	
+1053	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		20% salts	0.7	22.0	5.6	1.6	69.4	
+1053	Ectothiorhodospira halophila	9628	Imhoff and Thiemann 1991		30% salts	0.9	24.9	6.9	2.2	63.8	
+1053	Ectothiorhodospira halophila	SL1	Imhoff and Bias-Imhoff 1995				11.4	8.7	0.9	63.8	7.3
+1053	Ectothiorhodospira halophila	9630	Asselineau and Truper 1982			1	16.0	15	1	33.0	31
+1052	Ectothiorhodospira halochloris	9850	Imhoff 1988			0.4	18.9	7.5	0.4	69.7	1
+1052	Ectothiorhodospira halochloris	9850	Asselineau and Truper 1982			<0.1	19.0	7	<0.1	51.0	18
+421629	Ectothiorhodospira abdelmalekii	9840	Imhoff and Bias-Imhoff 1995			0.3	24.7	5.4	1.8	58.9	6.3
+421629	Ectothiorhodospira abdelmalekii	9840	Asselineau and Truper 1982			0.5	16.0	4	3	57.0	10
+195064	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	27.0	5% salts	0.2	14.0	4.8	5.5	72.3	<0.1
+195064	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	36.0	5% salts	0.2	20.7	9.6	4.6	62.2	0.4
+195064	Ectothiorhodospira mobilis	9903	Imhoff and Thiemann 1991	42.0	5% salts	0.5	23.1	10.9	3.4	59.7	0.3
+1054	Ectothiorhodospira shaposhnikovii	N1	Asselineau and Truper 1982			<0.1	17.0	<0.1	8	68.0	
+1054	Ectothiorhodospira shaposhnikovii	N1	Imhoff and Bias-Imhoff 1995			0.1	13.1	2	6.8	74.7	
+1054	Ectothiorhodospira vacuolata	DSM 2111	Imhoff and Bias-Imhoff 1995				15.3	2.4	4.8	73.5	
+1054	Ectothiorhodospira vacuolata	DSM 2111	Asselineau and Truper 1982			<0.1	20.0	7	6	60.0	

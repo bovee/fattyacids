@@ -1,6 +1,6 @@
-Ref Loc	Species	Temp	C14:0	C16:0	C16:1ω7	C18:0	C18:1ω9	C18:2ω6,9	C18:3ω6,9,12	C18:3ω3,6,9	C20:1	C20:2	C20:3	C20:4ω6,9,12,15	Other
-Table 1	Porphyridium cruentum	25	2.0	28.7	7.0	2.0	4.4	17.6		2.5		0.7			32.8
-Table 1	Ochromonas malhamensis	25	8.1	4.6		1.0	4.5	22.7	2.8	15.2	2.7			7.8	28.2
-Table 1	Poteriochromonas stipitata	25	5.4	17.6	3.2	1.4	7.4	17.5	1.0	3.0		3.2		3.8	27.0
-Table 1	Chilomonas paramecium	25	5.0	19.4	2.0	2.0	9.7	8.1		40.1					9.5
-Table 1	Hartmannella rhysodes	30	4.2	2.6	3.9	8.1	64.0	2.3			2.0	4.8	3.0	4.3	
+Tax ID	Species	Temp	C14:0	C16:0	C16:1ω7	C18:0	C18:1ω9	C18:2ω6,9	C18:3ω6,9,12	C18:3ω3,6,9	C20:1	C20:2	C20:3	C20:4ω6,9,12,15	Other
+35688	Porphyridium cruentum	25	2.0	28.7	7.0	2.0	4.4	17.6		2.5		0.7			32.8
+88167	Ochromonas malhamensis	25	8.1	4.6		1.0	4.5	22.7	2.8	15.2	2.7			7.8	28.2
+98051	Poterioochromonas stipitata	25	5.4	17.6	3.2	1.4	7.4	17.5	1.0	3.0		3.2		3.8	27.0
+2898	Chilomonas paramecium	25	5.0	19.4	2.0	2.0	9.7	8.1		40.1					9.5
+	Hartmannella rhysodes	30	4.2	2.6	3.9	8.1	64.0	2.3			2.0	4.8	3.0	4.3	

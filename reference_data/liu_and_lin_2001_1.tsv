@@ -1,9 +1,9 @@
-Ref Loc	Species	Strain	Medium	Temp	C14:0	C16:0	C16:1ω7	C18:0	C18:1ω9	C18:2ω6	C18:3ω3	C18:4ω3	C20:4ω6	C20:5ω3	C22:6ω3
-Table 1	Pavlova salina		f/2	25	10.1	23.4	6.2	0.9	16.9	7.8	3.1	5.9	1.6	11.8	4.4
-Table 1	Isochrysis	CCMP 463	f/2	25	10.4	14.9	4.5		29.8	5.7	6.4	17.5			10.7
-Table 1	Isochrysis	CCMP 1324	f/2	25	10.2	17.6	3.9		32.0	4.1	6.4	15.1			10.9
-Table 1	Isochrysis galbana		f/2	25	17.5	14.3	6.3		15.1	8.8	8.2	24.9			8.2
-Table 1	Isochrysis galbana	TK1	f/2	25	16.3	12.9	4.0		28.1	3.0	5.5	18.9			11.1
-Table 1	Pavlova lutheri	 CCMP 1325 TK2	f/2	25	10.3	20.8	18.4	0.4	3.3	1.9	1.5	6.8		21.0	6.2
-Table 1	Nannochloropsis oculata		f/2	25	5.1	32.1	24.9	2.7	16.5	1.9			2.8	9.4	
-Table 1	Chlorella minutussima	 UTEX2341	f/2	25	4.5	33.9	23.2	2.9	20.4	3.4			1.9	8.7	
+Tax ID	Species	Strain	Medium	Temp	C14:0	C16:0	C16:1ω7	C18:0	C18:1ω9	C18:2ω6	C18:3ω3	C18:4ω3	C20:4ω6	C20:5ω3	C22:6ω3
+561169	Pavlova salina		f/2	25	10.1	23.4	6.2	0.9	16.9	7.8	3.1	5.9	1.6	11.8	4.4
+37098	Isochrysis	CCMP 463	f/2	25	10.4	14.9	4.5		29.8	5.7	6.4	17.5			10.7
+37098	Isochrysis	CCMP 1324	f/2	25	10.2	17.6	3.9		32.0	4.1	6.4	15.1			10.9
+37099	Isochrysis galbana		f/2	25	17.5	14.3	6.3		15.1	8.8	8.2	24.9			8.2
+37099	Isochrysis galbana	TK1	f/2	25	16.3	12.9	4.0		28.1	3.0	5.5	18.9			11.1
+2832	Pavlova lutheri	 CCMP 1325 TK2	f/2	25	10.3	20.8	18.4	0.4	3.3	1.9	1.5	6.8		21.0	6.2
+43925	Nannochloropsis oculata		f/2	25	5.1	32.1	24.9	2.7	16.5	1.9			2.8	9.4	
+3081	Chlorella minutissima	 UTEX2341	f/2	25	4.5	33.9	23.2	2.9	20.4	3.4			1.9	8.7	

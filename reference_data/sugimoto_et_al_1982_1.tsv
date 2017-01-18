@@ -1,6 +1,6 @@
-Ref Loc	Species	Strain	Medium	Notes	C14:0	3OH-C14:0	C16:1	C16:0	3OH-C16:0	C18:2	C18:1	C18:0	3OH-C18:1
-Table 1	Haemophilus equigenitalis	NCTC 11184	Fildes agar	Harvested at 72 hr	1.72	3.61	1.7	29.4	0.28	0.84	55.3	4.02	1.66
-Table 1	Haemophilus equigenitalis	NCTC 11184	5% sheep blood agar	Harvested at 72 hr	0.53	3.71	1.0	28.1	0.42	0.2	41.2	12.8	1.16
-Table 1	Haemophilus equigenitalis	NCTC 11184	10% horse blood chocolate agar	Harvested at 72 hr	0.75	4.59	1.09	29.8	0.31	0.33	52.5	6.22	1.73
-Table 1	Haemophilus equigenitalis	NCTC 11184	IsoVitaleX-hemin agar	Harvested at 72 hr	1.23	3.81	1.42	32.8	0.25		50.9	5.03	1.38
-Table 1	Haemophilus equigenitalis	NCTC 11184	Fildes agar	Harvested at 48hr	0.85	4.48	1.03	27.6	0.33	0.67	54.8	6.03	1.96
+Tax ID	Species	Strain	Medium	Notes	C14:0	3OH-C14:0	C16:1	C16:0	3OH-C16:0	C18:2	C18:1	C18:0	3OH-C18:1
+29575	Haemophilus equigenitalis	NCTC 11184	Fildes agar	Harvested at 72 hr	1.72	3.61	1.7	29.4	0.28	0.84	55.3	4.02	1.66
+29575	Haemophilus equigenitalis	NCTC 11184	5% sheep blood agar	Harvested at 72 hr	0.53	3.71	1.0	28.1	0.42	0.2	41.2	12.8	1.16
+29575	Haemophilus equigenitalis	NCTC 11184	10% horse blood chocolate agar	Harvested at 72 hr	0.75	4.59	1.09	29.8	0.31	0.33	52.5	6.22	1.73
+29575	Haemophilus equigenitalis	NCTC 11184	IsoVitaleX-hemin agar	Harvested at 72 hr	1.23	3.81	1.42	32.8	0.25		50.9	5.03	1.38
+29575	Haemophilus equigenitalis	NCTC 11184	Fildes agar	Harvested at 48hr	0.85	4.48	1.03	27.6	0.33	0.67	54.8	6.03	1.96

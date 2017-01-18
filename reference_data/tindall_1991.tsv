@@ -1,5 +1,5 @@
-Ref Loc	Species	Strain	Temp	I-C14:0	I-C15:0	A-C15:0	C15:0	I-C16:0	C16:0	I-C17:0	A-C17:0	C17:0	I-C18:0	C18:0
-Table 1	Thermus	DSM 4250	60	1.01	20.77	21.92	1.42	5.87		21.9	24.01			
-Table 1	Thermus	DSM 4251	60	<0.5	6.71	42.9	1.32	2.7		5.53	34.89			
-Table 1	Rhodothermus marinus	DSM 4252	60	3.7	4.56	8.5	<0.5	34.69	6.19	15.14	10.02	1.41	12.36	1.96
-Table 1	Rhodothermus marinus	DSM 4253	60	4.6	5.29	12.4	<0.5	34.72	7.68	12.71	10.62	0.91	8.43	1.34
+Tax ID	Species	Strain	Temp	I-C14:0	I-C15:0	A-C15:0	C15:0	I-C16:0	C16:0	I-C17:0	A-C17:0	C17:0	I-C18:0	C18:0
+270	Thermus	DSM 4250	60	1.01	20.77	21.92	1.42	5.87		21.9	24.01			
+270	Thermus	DSM 4251	60	<0.5	6.71	42.9	1.32	2.7		5.53	34.89			
+29549	Rhodothermus marinus	DSM 4252	60	3.7	4.56	8.5	<0.5	34.69	6.19	15.14	10.02	1.41	12.36	1.96
+29549	Rhodothermus marinus	DSM 4253	60	4.6	5.29	12.4	<0.5	34.72	7.68	12.71	10.62	0.91	8.43	1.34

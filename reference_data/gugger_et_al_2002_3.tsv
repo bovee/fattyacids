@@ -1,11 +1,11 @@
-Ref Loc	Species	Strain	Temp	Phase	C14:0	C16:0	C18:0	C16:1ω5c	C16:1ω7c	C16:1ω9c	C18:1ω5c	C18:2ω6,9c	C18:3ω3,6,9c	C18:3ω6,9,12c	A-C12:0	A-C14:0	A-C16:0	10Me-C16:0	10Me-C17:0	Br-C17:1
-Table 4	Nostoc	152	20	Exponential	3.4	18.4	<1	10.4	10.8			20.5	25.5			2.2		2.3	1.8	
-Table 4	Nostoc	152	20	Lag	3.1	18.1	<1	13.1	8.9		3.2	9.9	33.8		1.8	1.5		<1		1.7
-Table 4	Nostoc	152	20	Exponential	4	14.6	<1	14	9.5		1.1	8.6	37.8		<1	1.1		1.2	1.6	<1
-Table 4	Nostoc	152	20	Stationary	4.2	12.7	<1	15.5	9.2			7.5	41.4		1.1	<1		<1	1.4	<1
-Table 4	Nostoc	PCC 73102	20	Exponential	<1	16.0	<1		25.7			17.8	28.9		1.2	2.6		<1	1.7	<1
-Table 4	Nostoc	PCC 73102	20	Lag		15.0	2.8		18.8		9.0	15.3	18.2		4.3	9.6				5
-Table 4	Nostoc	PCC 73102	20	Exponential	<1	14.6	1.6		29.3		4.0	20.8	22.6		1	2.4		<1		<1
-Table 4	Nostoc	PCC 73102	20	Stationary		17.2	1.9		26.8			16.6	28.9		2.4	2.8				2.5
-Table 4	Cylindrospermum stagnale	PCC 7417	20		<1	26.2	<1	<1	4.1	14.2		15.2	13.4			3.1	4.0	2	6.0	
-Table 4	Calothrix marchica	PCC 7714	20		<1	48.4	<1			9.0		6.6	4.9	4.3		3.6	5.3	2.1	4.6	
+Tax ID	Species	Strain	Temp	Phase	C14:0	C16:0	C18:0	C16:1ω5c	C16:1ω7c	C16:1ω9c	C18:1ω5c	C18:2ω6,9c	C18:3ω3,6,9c	C18:3ω6,9,12c	A-C12:0	A-C14:0	A-C16:0	10Me-C16:0	10Me-C17:0	Br-C17:1
+1177	Nostoc	152	20	Exponential	3.4	18.4	<1	10.4	10.8			20.5	25.5			2.2		2.3	1.8	
+1177	Nostoc	152	20	Lag	3.1	18.1	<1	13.1	8.9		3.2	9.9	33.8		1.8	1.5		<1		1.7
+1177	Nostoc	152	20	Exponential	4	14.6	<1	14	9.5		1.1	8.6	37.8		<1	1.1		1.2	1.6	<1
+1177	Nostoc	152	20	Stationary	4.2	12.7	<1	15.5	9.2			7.5	41.4		1.1	<1		<1	1.4	<1
+1177	Nostoc	PCC 73102	20	Exponential	<1	16.0	<1		25.7			17.8	28.9		1.2	2.6		<1	1.7	<1
+1177	Nostoc	PCC 73102	20	Lag		15.0	2.8		18.8		9.0	15.3	18.2		4.3	9.6				5
+1177	Nostoc	PCC 73102	20	Exponential	<1	14.6	1.6		29.3		4.0	20.8	22.6		1	2.4		<1		<1
+1177	Nostoc	PCC 73102	20	Stationary		17.2	1.9		26.8			16.6	28.9		2.4	2.8				2.5
+142864	Cylindrospermum stagnale	PCC 7417	20		<1	26.2	<1	<1	4.1	14.2		15.2	13.4			3.1	4.0	2	6.0	
+1335615	Calothrix marchica	PCC 7714	20		<1	48.4	<1			9.0		6.6	4.9	4.3		3.6	5.3	2.1	4.6	

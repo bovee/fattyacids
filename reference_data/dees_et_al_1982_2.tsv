@@ -1,7 +1,7 @@
-Ref Loc	Species	Strain	Medium	Temp	I-C13:0	C14:0	I-C15:0	A-C15:0	C15:0	C16:1ω7	C16:0	3OH-I-C15:0	C17:0	3OH-C16:0	C18:2	C18:1ω9	C18:1	C18:0	3OH-I-C17:0
-Table 2	Capnocytophaga ochracea	25	Heart infusion agar + leucine	35	3	<2	55	<2	<2	<2	9	4	<2	3	9	4	<2	2	11
-Table 2	Capnocytophaga ochracea	25	Heart infusion agar + isoleucine	35	2	<2	62	2	<2	<2	5	4	<2	3	5	2	<2	2	13
-Table 2	Capnocytophaga gingivalis	27	Heart infusion agar + leucine	35	<2	<2	74	<2	<2	<2	4	4	<2	4	3	<2	<2	<2	11
-Table 2	Capnocytophaga gingivalis	27	Heart infusion agar + isoleucine	35	<2	<2	71	5	<2	<2	3	4	<2	5	3	<2	<2	<2	9
-Table 2	Capnocytophaga sputigena	4	Heart infusion agar + leucine	35	3	<2	76	<2	<2	<2	3	3	<2	4	3	<2	<2	<2	8
-Table 2	Capnocytophaga sputigena	4	Heart infusion agar + isoleucine	35	<2	<2	70	5	<2	<2	4	4	<2	5	3	<2	<2	<2	9
+Tax ID	Species	Strain	Medium	Temp	I-C13:0	C14:0	I-C15:0	A-C15:0	C15:0	C16:1ω7	C16:0	3OH-I-C15:0	C17:0	3OH-C16:0	C18:2	C18:1ω9	C18:1	C18:0	3OH-I-C17:0
+1018	Capnocytophaga ochracea	25	Heart infusion agar + leucine	35	3	<2	55	<2	<2	<2	9	4	<2	3	9	4	<2	2	11
+1018	Capnocytophaga ochracea	25	Heart infusion agar + isoleucine	35	2	<2	62	2	<2	<2	5	4	<2	3	5	2	<2	2	13
+1017	Capnocytophaga gingivalis	27	Heart infusion agar + leucine	35	<2	<2	74	<2	<2	<2	4	4	<2	4	3	<2	<2	<2	11
+1017	Capnocytophaga gingivalis	27	Heart infusion agar + isoleucine	35	<2	<2	71	5	<2	<2	3	4	<2	5	3	<2	<2	<2	9
+1019	Capnocytophaga sputigena	4	Heart infusion agar + leucine	35	3	<2	76	<2	<2	<2	3	3	<2	4	3	<2	<2	<2	8
+1019	Capnocytophaga sputigena	4	Heart infusion agar + isoleucine	35	<2	<2	70	5	<2	<2	4	4	<2	5	3	<2	<2	<2	9

@@ -1,26 +1,26 @@
-Ref Loc	Species	Strain	Temp	Medium	C12:0	C14:0	C15:0	C16:1	C16:0	C17:1	C17:0	C18:1	C18:0	3OH-C10:0	2OH-C12:0	3OH-C12:0	2OH-C14:0	3OH-C14:0	Cyc-C17:0	I-C13:0	I-C15:0	I-C17:0
-Table 1	Alcaligenes faecalis	C8194	37	Trypticase soy agar	<2	8	<2	11	27			11	6		5.0		<2	9.0	23.0			
-Table 1	Alcaligenes faecalis	C7859	37	Trypticase soy agar	<2	4	<2	5	30			9	6		4.0		5	9.0	28.0			
-Table 1	Alcaligenes faecalis	B5104	37	Trypticase soy agar	2	4	<2	14	24			12	4		4.0		<2	12.0	24.0			
-Table 1	Alcaligenes faecalis	B5037	37	Trypticase soy agar	<2	7	<2	15	25			14	4		3.0		4	7.0	21.0			
-Table 1	Alcaligenes faecalis	B5069	37	Trypticase soy agar	2	5	<2	12	24			11	5		4.0		<2	12.0	25.0			
-Table 1	Alcaligenes faecalis	B2608	37	Trypticase soy agar	<2	6	<2	16	31			9	4		4.0		<2	7.0	23.0			
-Table 1	Alcaligenes faecalis	B6353	37	Trypticase soy agar	<2	6	<2	17	22			16	6		4.0		4	7.0	18.0			
-Table 1	Alcaligenes faecalis	B6288	37	Trypticase soy agar	2	8	<2	18	25			11	5		5.0		<2	9.0	17.0			
-Table 1	Alcaligenes faecalis	B4636	37	Trypticase soy agar		4	<2	24	24			32	4				<2	8.0	4.0			
-Table 1	Alcaligenes faecalis	B2566	37	Trypticase soy agar		6	<2	24	25			24	5				<2	11.0	5.0			
-Table 1	Alcaligenes faecalis	C1549	37	Trypticase soy agar		8	<2	23	24			22	6				<2	10.0	7.0			
-Table 1	Alcaligenes denitrificans	KC367	37	Trypticase soy agar	<2	7	<2	14	27			7	3		8.0		<2	12.0	22.0			
-Table 1	Alcaligenes denitrificans	B7042	37	Trypticase soy agar		5	<2	26	28			20	3				<2	7.0	11.0			
-Table 1	Alcaligenes odorans	C8486	37	Trypticase soy agar	3	3	<2	7	28			10	6		3.0		<2	12.0	28.0			
-Table 1	Alcaligenes odorans	C8351	37	Trypticase soy agar	2	3	2	8	28			14	5		4.0		<2	8.0	26.0			
-Table 1	Pseudomonas alcaligenes	RYS 142	37	Trypticase soy agar	10	4	<2	20	21		<2	20	3	10.0		5.0			5.0			2.0
-Table 1	Pseudomonas alcaligenes	A7708	37	Trypticase soy agar	12	2	<2	20	22		<2	24	3	5.0		4.0			6.0			2.0
-Table 1	Pseudomonas pseudoalcaligenes	KC945	37	Trypticase soy agar	14	<2	<2	20	20		<2	27	<2	9.0		2.0			6.0			2.0
-Table 1	Pseudomonas pseudoalcaligenes	B1373	37	Trypticase soy agar	14	<2	<2	20	24		<2	22	<2	9.0		2.0			4.0			5.0
-Table 1	Pseudomonas pseudoalcaligenes	A9863	37	Trypticase soy agar	12	<2	<2	23	20		<2	26	3	5.0		2.0			2.0			7.0
-Table 1	Pseudomonas pseudoalcaligenes	A2985	37	Trypticase soy agar	11	<2	<2	21	23		<2	30	3	5.0		2.0			3.0			2.0
-Table 1	Pseudomonas putrefaciens	KC988	37	Trypticase soy agar	3	4	9	21	12	15.0	4	4	<2							7.0	21.0	
-Table 1	Pseudomonas putrefaciens	B7000	37	Trypticase soy agar	4	3	8	18	11	17.0	4	6	2							6.0	21.0	
-Table 1	Pseudomonas putrefaciens	B7120	37	Trypticase soy agar	2	5	9	16	11	19.0	7	7	2							5.0	17.0	
-Table 1	Pseudomonas putrefaciens	B7128	37	Trypticase soy agar	3	7	7	18	11	16.0	6	6	<2							7.0	19.0	
+Tax ID	Species	Strain	Temp	Medium	C12:0	C14:0	C15:0	C16:1	C16:0	C17:1	C17:0	C18:1	C18:0	3OH-C10:0	2OH-C12:0	3OH-C12:0	2OH-C14:0	3OH-C14:0	Cyc-C17:0	I-C13:0	I-C15:0	I-C17:0
+511	Alcaligenes faecalis	C8194	37	Trypticase soy agar	<2	8	<2	11	27			11	6		5.0		<2	9.0	23.0			
+511	Alcaligenes faecalis	C7859	37	Trypticase soy agar	<2	4	<2	5	30			9	6		4.0		5	9.0	28.0			
+511	Alcaligenes faecalis	B5104	37	Trypticase soy agar	2	4	<2	14	24			12	4		4.0		<2	12.0	24.0			
+511	Alcaligenes faecalis	B5037	37	Trypticase soy agar	<2	7	<2	15	25			14	4		3.0		4	7.0	21.0			
+511	Alcaligenes faecalis	B5069	37	Trypticase soy agar	2	5	<2	12	24			11	5		4.0		<2	12.0	25.0			
+511	Alcaligenes faecalis	B2608	37	Trypticase soy agar	<2	6	<2	16	31			9	4		4.0		<2	7.0	23.0			
+511	Alcaligenes faecalis	B6353	37	Trypticase soy agar	<2	6	<2	17	22			16	6		4.0		4	7.0	18.0			
+511	Alcaligenes faecalis	B6288	37	Trypticase soy agar	2	8	<2	18	25			11	5		5.0		<2	9.0	17.0			
+511	Alcaligenes faecalis	B4636	37	Trypticase soy agar		4	<2	24	24			32	4				<2	8.0	4.0			
+511	Alcaligenes faecalis	B2566	37	Trypticase soy agar		6	<2	24	25			24	5				<2	11.0	5.0			
+511	Alcaligenes faecalis	C1549	37	Trypticase soy agar		8	<2	23	24			22	6				<2	10.0	7.0			
+32002	Alcaligenes denitrificans	KC367	37	Trypticase soy agar	<2	7	<2	14	27			7	3		8.0		<2	12.0	22.0			
+32002	Alcaligenes denitrificans	B7042	37	Trypticase soy agar		5	<2	26	28			20	3				<2	7.0	11.0			
+511	Alcaligenes odorans	C8486	37	Trypticase soy agar	3	3	<2	7	28			10	6		3.0		<2	12.0	28.0			
+511	Alcaligenes odorans	C8351	37	Trypticase soy agar	2	3	2	8	28			14	5		4.0		<2	8.0	26.0			
+43263	Pseudomonas alcaligenes	RYS 142	37	Trypticase soy agar	10	4	<2	20	21		<2	20	3	10.0		5.0			5.0			2.0
+43263	Pseudomonas alcaligenes	A7708	37	Trypticase soy agar	12	2	<2	20	22		<2	24	3	5.0		4.0			6.0			2.0
+330	Pseudomonas pseudoalcaligenes	KC945	37	Trypticase soy agar	14	<2	<2	20	20		<2	27	<2	9.0		2.0			6.0			2.0
+330	Pseudomonas pseudoalcaligenes	B1373	37	Trypticase soy agar	14	<2	<2	20	24		<2	22	<2	9.0		2.0			4.0			5.0
+330	Pseudomonas pseudoalcaligenes	A9863	37	Trypticase soy agar	12	<2	<2	23	20		<2	26	3	5.0		2.0			2.0			7.0
+330	Pseudomonas pseudoalcaligenes	A2985	37	Trypticase soy agar	11	<2	<2	21	23		<2	30	3	5.0		2.0			3.0			2.0
+24	Pseudomonas putrefaciens	KC988	37	Trypticase soy agar	3	4	9	21	12	15.0	4	4	<2							7.0	21.0	
+24	Pseudomonas putrefaciens	B7000	37	Trypticase soy agar	4	3	8	18	11	17.0	4	6	2							6.0	21.0	
+24	Pseudomonas putrefaciens	B7120	37	Trypticase soy agar	2	5	9	16	11	19.0	7	7	2							5.0	17.0	
+24	Pseudomonas putrefaciens	B7128	37	Trypticase soy agar	3	7	7	18	11	16.0	6	6	<2							7.0	19.0	

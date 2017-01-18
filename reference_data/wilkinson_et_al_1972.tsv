@@ -1,3 +1,3 @@
-Ref Loc	Species	Strain	Temp	Notes	C13:0	C13:1	C14:0	C16:0	C16:1	C18:0	C18:1
-Table 1	Paracoccus denitrificans	ATCC 13543	30	On polar (EGS) column	0.4	0.8	<0.1	8.3	0.6	3.8	86.1
-Table 1	Paracoccus denitrificans	ATCC 13543	30	On nonpolar (SE-30) column	<0.05	0.12	0.16	9.1	0.41	3.7	86.5
+Tax ID	Species	Strain	Temp	Notes	C13:0	C13:1	C14:0	C16:0	C16:1	C18:0	C18:1
+266	Paracoccus denitrificans	ATCC 13543	30	On polar (EGS) column	0.4	0.8	<0.1	8.3	0.6	3.8	86.1
+266	Paracoccus denitrificans	ATCC 13543	30	On nonpolar (SE-30) column	<0.05	0.12	0.16	9.1	0.41	3.7	86.5

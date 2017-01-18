@@ -1,9 +1,9 @@
-Ref Loc	Species	Notes	N	I-C13:0	I-C14:0	3OH-I-C13:0	I-C15:1	I-C15:0	A-C15:0	C15:0	OH-C16:1ω7t	I-C16:0	C16:0	3OH-I-C15:0	I-C17:1ω9c	I-C17:0	A-C17:0	C17:1ω8c	C17:1ω6c	C17:0	2OH-I-C17:0	2OH-A-C17:0	3OH-I-C17:0	3OH-A-C17:0	I-C19:0	A-C19:0	Unknown
-Table 2	Meiothermus cerbereus	with thiosulfate	6		2.1		3.7	31.4	5.1	1.9	2.4	4.9	5.1		8.0	9.6	2.0	1.1			6.3		3.9				
-Table 2	Meiothermus cerbereus	without thiosulfate	6	1.4	2.7		3.8	34.6	11.1	1.6	1.9	4.0	4.5		4.8	5.8	2.5				3.3		4.7	1.4			
-Table 2	Meiothermus ruber	with thiosulfate	3				2.2	33.7	4.2	2.0		2.7	5.7		6.6	17.4	3.4			1.2	9.1		1.5				
-Table 2	Meiothermus ruber	without thiosulfate	3				2.2	31.9	5.2	1.8		3.1	5.5		6.4	16.5	4.0			2.2	8.9		1.6				
-Table 2	Meiothermus silvunus	with thiosulfate	5			1.5		24.7	29.6			1.4	5.3			11.1	6.8				8.4	2.8			2.0	1.6	3.9
-Table 2	Meiothermus silvunus	without thiosulfate	5			1.6		24.1	30.4				4.9			10.6	7.1				8.5	3.0			1.7	1.4	4.1
-Table 2	Meiothermus chliurophilus	with thiosulfate	1	1.3	1.7			40.2	7.8	2.1		2.7	8.2	1.4		17.0	2.7		1.1	1.6	9.0						
-Table 2	Meiothermus chliurophilus	without thiosulfate	1	1.5	2.0			40.7	9.3	2.3		3.0	7.6	1.5		15.2	3.0			1.2	8.1						
+Tax ID	Species	Notes	N	I-C13:0	I-C14:0	3OH-I-C13:0	I-C15:1	I-C15:0	A-C15:0	C15:0	OH-C16:1ω7t	I-C16:0	C16:0	3OH-I-C15:0	I-C17:1ω9c	I-C17:0	A-C17:0	C17:1ω8c	C17:1ω6c	C17:0	2OH-I-C17:0	2OH-A-C17:0	3OH-I-C17:0	3OH-A-C17:0	I-C19:0	A-C19:0	Unknown
+65552	Meiothermus cerbereus	with thiosulfate	6		2.1		3.7	31.4	5.1	1.9	2.4	4.9	5.1		8.0	9.6	2.0	1.1			6.3		3.9				
+65552	Meiothermus cerbereus	without thiosulfate	6	1.4	2.7		3.8	34.6	11.1	1.6	1.9	4.0	4.5		4.8	5.8	2.5				3.3		4.7	1.4			
+277	Meiothermus ruber	with thiosulfate	3				2.2	33.7	4.2	2.0		2.7	5.7		6.6	17.4	3.4			1.2	9.1		1.5				
+277	Meiothermus ruber	without thiosulfate	3				2.2	31.9	5.2	1.8		3.1	5.5		6.4	16.5	4.0			2.2	8.9		1.6				
+52022	Meiothermus silvanus	with thiosulfate	5			1.5		24.7	29.6			1.4	5.3			11.1	6.8				8.4	2.8			2.0	1.6	3.9
+52022	Meiothermus silvanus	without thiosulfate	5			1.6		24.1	30.4				4.9			10.6	7.1				8.5	3.0			1.7	1.4	4.1
+52023	Meiothermus chliarophilus	with thiosulfate	1	1.3	1.7			40.2	7.8	2.1		2.7	8.2	1.4		17.0	2.7		1.1	1.6	9.0						
+52023	Meiothermus chliarophilus	without thiosulfate	1	1.5	2.0			40.7	9.3	2.3		3.0	7.6	1.5		15.2	3.0			1.2	8.1						

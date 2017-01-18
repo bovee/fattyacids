@@ -1,37 +1,37 @@
-Ref Loc	Species	Strain	Original Ref	Medium	C14:0	C16:0	C16:1	C18:0	C18:1
-Table 4a	Rhodopseudomonas palustris	ATCC 17001	Urakami and Komagata 1988			7.6	2.7	7.1	78.9
-Table 4a	Rhodopseudomonas palustris	DSM 126	Urakami and Komagata 1988		0.1	14.0	3.0	9.8	70.1
-Table 4a	Rhodopseudomonas palustris	ATCC 17009	Urakami and Komagata 1988		0.1	5.7	1.6	7.3	76.5
-Table 4a	Rhodopseudomonas palustris	1aI	Imhoff and Bias-Imhoff 1995			5.2	3.1	7.3	79.7
-Table 4a	Rhodopseudomonas acidophila	ATCC 25092	Kato et al 1985		0.7	19.6	42.7	2.3	31.5
-Table 4a	Rhodopseudomonas acidophila	ATCC 25092	Imhoff and Bias-Imhoff 1995		0.8	14.8	37.2	0.8	46.0
-Table 4a	Rhodopseudomonas blastica	ATCC 33485	Imhoff 1988		0.4	1.5	2.8	4.9	90.1
-Table 4a	Rhodopseudomonas rutila	ATCC 33872	Imhoff and Bias-Imhoff 1995		1	8.7	3.6	10.3	75.7
-Table 4a	Rhodopseudomonas viridis	DSM 133	Kato et al 1985		0.3	12.7	10.0	0.7	74.0
-Table 4a	Rhodopseudomonas viridis	DSM 133	Imhoff and Bias-Imhoff 1995		0.5	8.4	5.5	2.2	74.6
-Table 4a	Rhodopseudomonas viridis	BN 170	Imhoff and Bias-Imhoff 1995		0.5	6.7	5.6	1.1	76.7
-Table 4a	Rhodopseudomonas sulfoviridis	DSM 729	Imhoff and Bias-Imhoff 1995		2.5	8.6	9.2	1.7	76.5
-Table 4a	Rhodopseudomonas marina	DSM 2698	Imhoff 1988		0.4	1.9	0.5	14.1	69.0
-Table 4a	Rhodopseudomonas marina	DSM 2780	Imhoff and Thiemann 1991	5% salts	0.1	3.2	0.5	21.3	67.8
-Table 4a	Rhodomicrobium vannielii	ATCC 17100	Urakami and Komagata 1988		2.4	3.7	0.6	3.6	85.6
-Table 4a	Rhodomicrobium vannielii	ATCC 17100	Imhoff and Bias-Imhoff 1995		1	2.3	0.4	1.6	92.3
-Table 4a	Rhodomicrobium vannielii	ns	Park and Berger 1967		1.8	5.4	1.0	0.1	88.2
-Table 4a	Rhodopila globiformis	DSM 161	Urakami and Komagata 1988		5.8	9.3	4.7	1	74.4
-Table 4a	Rhodospirillum rubrum	DSM 467	Urakami and Komagata 1988		4.5	20.7	25.5	2	40.8
-Table 4a	Rhodospirillum rubrum	IFO 3986	Urakami and Komagata 1988		0.2	13.8	26.1	1.4	46.1
-Table 4a	Rhodospirillum rubrum	DSM 467	Imhoff 1988		2.1	14.0	27.1	1.3	54.8
-Table 4a	Rhodospirillum rubrum	1761-1a	Imhoff and Bias-Imhoff 1995		1.7	14.6	21.8	3	53.3
-Table 4a	Rhodospirillum photometricum	DSM 122	Imhoff and Bias-Imhoff 1995		1	25.2	222.2	0.4	51.0
-Table 4a	Rhodospirillum molischianum	DSM 120	Imhoff 1988		0.7	18.1	36.5	0.7	43.5
-Table 4a	Rhodospirillum molischianum	ns	Constantopoulos and Bloch 1967		<0.1	21.9	29.8	<0.1	47.1
-Table 4a	Rhodospirillum fulvum	DSM 115	Imhoff and Bias-Imhoff 1995		0.6	15.1	25.8	1.2	54.5
-Table 4b	Rubrivivax gelatinosus	BN 156	Imhoff 1988		5	34.6	41.3	2.3	16.2
-Table 4b	Rubrivivax gelatinosus	ATCC 17011	Urakami and Komagata 1988		2.1	24.0	34.8	1.2	16.5
-Table 4b	Rubrivivax gelatinosus	BN 151	Imhoff and Bias-Imhoff 1995		0.8	29.4	45.1	3	21.5
-Table 4b	Rubrivivax gelatinosus	DSM 149	Imhoff and Bias-Imhoff 1995		0.7	35.1	42.7	2.9	18.4
-Table 4b	Rubrivivax gelatinosus	DSM 151	Imhoff and Bias-Imhoff 1995		0.8	31.7	39.0	3.3	25.0
-Table 4b	Rhodocyclus tenuis	BN230	Imhoff 1988		1.4	33.5	49.5	0.5	14.7
-Table 4b	Rhodocyclus tenuis	DSM 109	Hiraishi et al 1991		5	36.0	43.0	<0.1	15.0
-Table 4b	Rhodocyclus purpureus	DSM 168	Imhoff and Bias-Imhoff 1995		1.4	33.5	44.5	1.3	18.2
-Table 4b	Rhodocyclus purpureus	DSM 168	Hiraishi et al 1991		5	35.0	40.0	<0.1	18.0
-Table 4b	Rhodoferax fermentans	FR 2	Hiraishi et al 1991		<0.1	35.0	54.0	<0.1	5.0
+Tax ID	Species	Strain	Original Ref	Medium	C14:0	C16:0	C16:1	C18:0	C18:1
+1076	Rhodopseudomonas palustris	ATCC 17001	Urakami and Komagata 1988			7.6	2.7	7.1	78.9
+1076	Rhodopseudomonas palustris	DSM 126	Urakami and Komagata 1988		0.1	14.0	3.0	9.8	70.1
+1076	Rhodopseudomonas palustris	ATCC 17009	Urakami and Komagata 1988		0.1	5.7	1.6	7.3	76.5
+1076	Rhodopseudomonas palustris	1aI	Imhoff and Bias-Imhoff 1995			5.2	3.1	7.3	79.7
+1074	Rhodopseudomonas acidophila	ATCC 25092	Kato et al 1985		0.7	19.6	42.7	2.3	31.5
+1074	Rhodopseudomonas acidophila	ATCC 25092	Imhoff and Bias-Imhoff 1995		0.8	14.8	37.2	0.8	46.0
+1075	Rhodopseudomonas blastica	ATCC 33485	Imhoff 1988		0.4	1.5	2.8	4.9	90.1
+1076	Rhodopseudomonas rutila	ATCC 33872	Imhoff and Bias-Imhoff 1995		1	8.7	3.6	10.3	75.7
+1079	Rhodopseudomonas viridis	DSM 133	Kato et al 1985		0.3	12.7	10.0	0.7	74.0
+1079	Rhodopseudomonas viridis	DSM 133	Imhoff and Bias-Imhoff 1995		0.5	8.4	5.5	2.2	74.6
+1079	Rhodopseudomonas viridis	BN 170	Imhoff and Bias-Imhoff 1995		0.5	6.7	5.6	1.1	76.7
+50712	Rhodopseudomonas sulfoviridis	DSM 729	Imhoff and Bias-Imhoff 1995		2.5	8.6	9.2	1.7	76.5
+1080	Rhodopseudomonas marina	DSM 2698	Imhoff 1988		0.4	1.9	0.5	14.1	69.0
+1080	Rhodopseudomonas marina	DSM 2780	Imhoff and Thiemann 1991	5% salts	0.1	3.2	0.5	21.3	67.8
+1069	Rhodomicrobium vannielii	ATCC 17100	Urakami and Komagata 1988		2.4	3.7	0.6	3.6	85.6
+1069	Rhodomicrobium vannielii	ATCC 17100	Imhoff and Bias-Imhoff 1995		1	2.3	0.4	1.6	92.3
+1069	Rhodomicrobium vannielii	ns	Park and Berger 1967		1.8	5.4	1.0	0.1	88.2
+1071	Rhodopila globiformis	DSM 161	Urakami and Komagata 1988		5.8	9.3	4.7	1	74.4
+1085	Rhodospirillum rubrum	DSM 467	Urakami and Komagata 1988		4.5	20.7	25.5	2	40.8
+1085	Rhodospirillum rubrum	IFO 3986	Urakami and Komagata 1988		0.2	13.8	26.1	1.4	46.1
+1085	Rhodospirillum rubrum	DSM 467	Imhoff 1988		2.1	14.0	27.1	1.3	54.8
+1085	Rhodospirillum rubrum	1761-1a	Imhoff and Bias-Imhoff 1995		1.7	14.6	21.8	3	53.3
+1084	Rhodospirillum photometricum	DSM 122	Imhoff and Bias-Imhoff 1995		1	25.2	222.2	0.4	51.0
+1083	Rhodospirillum molischianum	DSM 120	Imhoff 1988		0.7	18.1	36.5	0.7	43.5
+1083	Rhodospirillum molischianum	ns	Constantopoulos and Bloch 1967		<0.1	21.9	29.8	<0.1	47.1
+1082	Rhodospirillum fulvum	DSM 115	Imhoff and Bias-Imhoff 1995		0.6	15.1	25.8	1.2	54.5
+28068	Rubrivivax gelatinosus	BN 156	Imhoff 1988		5	34.6	41.3	2.3	16.2
+28068	Rubrivivax gelatinosus	ATCC 17011	Urakami and Komagata 1988		2.1	24.0	34.8	1.2	16.5
+28068	Rubrivivax gelatinosus	BN 151	Imhoff and Bias-Imhoff 1995		0.8	29.4	45.1	3	21.5
+28068	Rubrivivax gelatinosus	DSM 149	Imhoff and Bias-Imhoff 1995		0.7	35.1	42.7	2.9	18.4
+28068	Rubrivivax gelatinosus	DSM 151	Imhoff and Bias-Imhoff 1995		0.8	31.7	39.0	3.3	25.0
+1066	Rhodocyclus tenuis	BN230	Imhoff 1988		1.4	33.5	49.5	0.5	14.7
+1066	Rhodocyclus tenuis	DSM 109	Hiraishi et al 1991		5	36.0	43.0	<0.1	15.0
+1067	Rhodocyclus purpureus	DSM 168	Imhoff and Bias-Imhoff 1995		1.4	33.5	44.5	1.3	18.2
+1067	Rhodocyclus purpureus	DSM 168	Hiraishi et al 1991		5	35.0	40.0	<0.1	18.0
+28066	Rhodoferax fermentans	FR 2	Hiraishi et al 1991		<0.1	35.0	54.0	<0.1	5.0

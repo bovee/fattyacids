@@ -1,21 +1,21 @@
-Ref Loc	Species	Strain	Temp	Phase	C14:0	C16:0	C18:0	C16:1ω7c	C16:1ω9c	C18:2ω6,9c	C18:3ω3,6,9c	A-C14:0	A-C16:0	10Me-C16:0	3OH-I-C16:0	10Me-C17:0
-Table 2	Anabaena	37	20	Exponential	<1	31.1	<1	3.3	7.7	6.5	20.2	7.6	3.4	5.1	1.5	5.5
-Table 2	Anabaena	37	20	Lag	<1	20.8	3.1		11.7	6.8	32.5	9.3	3.2	<1	1.2	2.5
-Table 2	Anabaena	37	20	Exponential	<1	21.1	<1		12.3	8.3	38.1	3.8	3.9	3.2	<1	3.1
-Table 2	Anabaena	123	20	Exponential	<1	34.7	<1	4.2	7.3	5.4	18.7	6.6	3.6	3.3	1.9	6.2
-Table 2	Anabaena	123	20	Lag	<1	25.8	<1		12.8	6.7	34.3	3.9	2.8	2.8	1.1	3.4
-Table 2	Anabaena	123	20	Exponential	<1	26.9	<1	3.0	10.5	7.7	31.2	3.6	4.0	2.8	1	3.3
-Table 2	Anabaena	123	20	Exponential	<1	26.4	<1	2.8	10.0	8.0	32.1	4.2	3.7	2.4	1.1	3.4
-Table 2	Anabaena	66A	20	Exponential	6.6	22.4	<1	3.5	6.3	14.4	23.0	3.0	6.2	2.3	<1	3.2
-Table 2	Anabaena	66A	20	Lag	5.4	21.6	1.1		10.1	9.8	32.1	3.5	3.4	2.6	1.3	3.9
-Table 2	Anabaena	66A	20	Exponential	5.9	20.2	1.6		10.4	11.5	34.6	3.1	4.2	1.2	<1	2.7
-Table 2	Anabaena	66A	20	Exponential	5.1	24.0	2.8		7.3	13.7	29.9	3.6	3.6	<1	1.4	2.8
-Table 2	Anabaena	90	20	Exponential	6.1	25.9	<1	2.6	9.5	6.1	24.0	4.1	4.1	2.5	1.7	5.1
-Table 2	Anabaena	90	20	Lag	6.3	23.1	2.4		15.2	4.1	27.1	7.0	3.2	1.1	1.5	
-Table 2	Anabaena	90	20	Exponential	6.2	20.8	1.5		15.8	3.8	28.0	4.9	3.3	3.4	1.5	4.0
-Table 2	Anabaena	202A1	20	Exponential	5.9	22.2	<1	2.7	8.4	8.5	30.7	2.9	4.2	1.8	<1	3.0
-Table 2	Anabaena	202A1/35	20	Exponential	6.9	27.2	<1	3.2	8.5	6.8	25.6	3.1	3.5	1.2	1.4	3.9
-Table 2	Anabaena	202A2	20	Exponential	6.7	25.2	<1	3.2	8.8	6.8	27.5	3.3	3.8	1.4	1.1	3.4
-Table 2	Anabaena lemmermannii	NC83/1	20	Exponential	4.8	21.5	1.3		10.2	7.9	32.9	5.1	3.4	3.7	<1	3.6
-Table 2	Anabaena	277	20	Exponential	<1	23.5	<1	3.5	11.7	4.1	34.2	4.9	4.0	3.6	1.2	4.3
-Table 2	Anabaena	277	20		<1	29.2	<1		16.6	2.9	31.3	6.6	2.9	4.5	1.1	
+Tax ID	Species	Strain	Temp	Phase	C14:0	C16:0	C18:0	C16:1ω7c	C16:1ω9c	C18:2ω6,9c	C18:3ω3,6,9c	A-C14:0	A-C16:0	10Me-C16:0	3OH-I-C16:0	10Me-C17:0
+1163	Anabaena	37	20	Exponential	<1	31.1	<1	3.3	7.7	6.5	20.2	7.6	3.4	5.1	1.5	5.5
+1163	Anabaena	37	20	Lag	<1	20.8	3.1		11.7	6.8	32.5	9.3	3.2	<1	1.2	2.5
+1163	Anabaena	37	20	Exponential	<1	21.1	<1		12.3	8.3	38.1	3.8	3.9	3.2	<1	3.1
+1163	Anabaena	123	20	Exponential	<1	34.7	<1	4.2	7.3	5.4	18.7	6.6	3.6	3.3	1.9	6.2
+1163	Anabaena	123	20	Lag	<1	25.8	<1		12.8	6.7	34.3	3.9	2.8	2.8	1.1	3.4
+1163	Anabaena	123	20	Exponential	<1	26.9	<1	3.0	10.5	7.7	31.2	3.6	4.0	2.8	1	3.3
+1163	Anabaena	123	20	Exponential	<1	26.4	<1	2.8	10.0	8.0	32.1	4.2	3.7	2.4	1.1	3.4
+1163	Anabaena	66A	20	Exponential	6.6	22.4	<1	3.5	6.3	14.4	23.0	3.0	6.2	2.3	<1	3.2
+1163	Anabaena	66A	20	Lag	5.4	21.6	1.1		10.1	9.8	32.1	3.5	3.4	2.6	1.3	3.9
+1163	Anabaena	66A	20	Exponential	5.9	20.2	1.6		10.4	11.5	34.6	3.1	4.2	1.2	<1	2.7
+1163	Anabaena	66A	20	Exponential	5.1	24.0	2.8		7.3	13.7	29.9	3.6	3.6	<1	1.4	2.8
+1163	Anabaena	90	20	Exponential	6.1	25.9	<1	2.6	9.5	6.1	24.0	4.1	4.1	2.5	1.7	5.1
+1163	Anabaena	90	20	Lag	6.3	23.1	2.4		15.2	4.1	27.1	7.0	3.2	1.1	1.5	
+1163	Anabaena	90	20	Exponential	6.2	20.8	1.5		15.8	3.8	28.0	4.9	3.3	3.4	1.5	4.0
+1163	Anabaena	202A1	20	Exponential	5.9	22.2	<1	2.7	8.4	8.5	30.7	2.9	4.2	1.8	<1	3.0
+1163	Anabaena	202A1/35	20	Exponential	6.9	27.2	<1	3.2	8.5	6.8	25.6	3.1	3.5	1.2	1.4	3.9
+1163	Anabaena	202A2	20	Exponential	6.7	25.2	<1	3.2	8.8	6.8	27.5	3.3	3.8	1.4	1.1	3.4
+54295	Anabaena lemmermannii	NC83/1	20	Exponential	4.8	21.5	1.3		10.2	7.9	32.9	5.1	3.4	3.7	<1	3.6
+1163	Anabaena	277	20	Exponential	<1	23.5	<1	3.5	11.7	4.1	34.2	4.9	4.0	3.6	1.2	4.3
+1163	Anabaena	277	20		<1	29.2	<1		16.6	2.9	31.3	6.6	2.9	4.5	1.1	

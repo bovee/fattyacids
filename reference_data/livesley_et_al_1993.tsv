@@ -1,4 +1,4 @@
-Ref Loc	Species	Temp	3OH-C10:0	C12:0	2OH-C12:0	3OH-C12:0	C13:1	C13:0	C14:0	3OH-I-C14:0	2OH-I-C14:0	C15:0	I-C15:0	A-C15:0	C16:0	C16:1	C16:1ω9c	3OH-C16:0	C17:0	I-C17:0	A-C17:0	Cyc-C17:0	C18:0	C18:1ω9c	C20:4ω5c,8c,11c,14c	Unknown
-Table 2	Leptospira icterohaemorrhagiae	30	1.7	2.71	1.01	1.67			2.61						25.75	2.19	10.54					8.3	1.93	32.09		8.67
-Table 2	Serpulina hyodysenteriae	37					1.61	2.09	5.6	8.68	0.78		19.29	1.87	35.75		0.77	2.17	0.5	0.72	0.74		3.98	4.54	0.44	11.03
-Table 2	Borrelia burgdorferi	34							3.0			1.09			58.74		1.38				0.37		2.79	23.77		6.07
+Tax ID	Species	Temp	3OH-C10:0	C12:0	2OH-C12:0	3OH-C12:0	C13:1	C13:0	C14:0	3OH-I-C14:0	2OH-I-C14:0	C15:0	I-C15:0	A-C15:0	C16:0	C16:1	C16:1ω9c	3OH-C16:0	C17:0	I-C17:0	A-C17:0	Cyc-C17:0	C18:0	C18:1ω9c	C20:4ω5c,8c,11c,14c	Unknown
+173	Leptospira icterohaemorrhagiae	30	1.7	2.71	1.01	1.67			2.61						25.75	2.19	10.54					8.3	1.93	32.09		8.67
+159	Serpulina hyodysenteriae	37					1.61	2.09	5.6	8.68	0.78		19.29	1.87	35.75		0.77	2.17	0.5	0.72	0.74		3.98	4.54	0.44	11.03
+139	Borrelia burgdorferi	34							3.0			1.09			58.74		1.38				0.37		2.79	23.77		6.07

@@ -1,14 +1,14 @@
-Ref Loc	Species	Strain	Temp	Notes	C12:0	I-C14:0	C14:0	I-C15:0	C15:0	I-C16:0	C16:0	C16:1	C18:0	C18:1	C18:2	C18:3
-Table 4	Treponema refringens	Biotype refringens	30	Grown on defined medium							71.7			28.3		
-Table 4	Treponema refringens	Biotype refringens	30	Grown on serum medium	<0.5		1.5		1.5		62.0	2.8	4.0	6.4	21.5	0.9
-Table 4	Treponema refringens	Biotype nichols	30		<0.5		1.8		0.8		50.6	3.4	7.9	4.9	25.1	3.8
-Table 4	Treponema refringens	Biotype noguchi	30		<0.5		1.6		0.9		50.3	4.2	7.8	6.3	23.3	3.8
-Table 4	Treponema refringens	Biotype calligyrum	30		<0.5		1.7		1.2		67.9	4.4	6.8	4.9	11.3	0.8
-Table 4	Treponema phagedenis	Biotype phagedenis	30								49.2			50.8		
-Table 4	Treponema phagedenis	Biotype kazan 5	30								58.4			41.6		
-Table 4	Treponema phagedenis	Biotype reiteri	30								51.3			48.7		
-Table 4	Treponema scoliodontum		30								70.5			29.5		
-Table 4	Treponema vincentii		30				8.6				66.9			24.6		
-Table 4	Treponema denticola	Biotype denticola	30		<0.5	1.8	10.0	0.9	3.6	0.8	53.4			29.6		
-Table 4	Treponema denticola	Biotype comondonii	30								79.7			20.3		
-Table 4	Treponema denticola	Biotype ambiquum	30								74.8			25.2		
+Tax ID	Species	Strain	Temp	Notes	C12:0	I-C14:0	C14:0	I-C15:0	C15:0	I-C16:0	C16:0	C16:1	C18:0	C18:1	C18:2	C18:3
+174922	Treponema refringens	Biotype refringens	30	Grown on defined medium							71.7			28.3		
+174922	Treponema refringens	Biotype refringens	30	Grown on serum medium	<0.5		1.5		1.5		62.0	2.8	4.0	6.4	21.5	0.9
+174922	Treponema refringens	Biotype nichols	30		<0.5		1.8		0.8		50.6	3.4	7.9	4.9	25.1	3.8
+174922	Treponema refringens	Biotype noguchi	30		<0.5		1.6		0.9		50.3	4.2	7.8	6.3	23.3	3.8
+174922	Treponema refringens	Biotype calligyrum	30		<0.5		1.7		1.2		67.9	4.4	6.8	4.9	11.3	0.8
+162	Treponema phagedenis	Biotype phagedenis	30								49.2			50.8		
+162	Treponema phagedenis	Biotype kazan 5	30								58.4			41.6		
+162	Treponema phagedenis	Biotype reiteri	30								51.3			48.7		
+	Treponema scoliodontum		30								70.5			29.5		
+69710	Treponema vincentii		30				8.6				66.9			24.6		
+158	Treponema denticola	Biotype denticola	30		<0.5	1.8	10.0	0.9	3.6	0.8	53.4			29.6		
+158	Treponema denticola	Biotype comondonii	30								79.7			20.3		
+158	Treponema denticola	Biotype ambiquum	30								74.8			25.2		

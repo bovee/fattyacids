@@ -1,5 +1,5 @@
-Ref Loc	Species	Strain	Temp	C14:0	C16:0	C16:1	C17:0	C18:0	C18:1	C18:2	C18:3ω3	C18:3ω6	C18:4
-Table 1	Synechocystis	PCC6803	38	<0.4	58	2	1	2	9	15		13	<0.4
-Table 1	Synechocystis	PCC6803	34	<0.4	54	4	1	<0.4	7	14		20	<0.4
-Table 1	Synechocystis	PCC6803	28	<0.4	52	3	1	<0.4	3	9	3.0	26	3
-Table 1	Synechocystis	PCC6803	22	<0.4	51	3	<0.4	<0.4	2	6	8.0	21	8
+Tax ID	Species	Strain	Temp	C14:0	C16:0	C16:1	C17:0	C18:0	C18:1	C18:2	C18:3ω3	C18:3ω6	C18:4
+1142	Synechocystis	PCC6803	38	<0.4	58	2	1	2	9	15		13	<0.4
+1142	Synechocystis	PCC6803	34	<0.4	54	4	1	<0.4	7	14		20	<0.4
+1142	Synechocystis	PCC6803	28	<0.4	52	3	1	<0.4	3	9	3.0	26	3
+1142	Synechocystis	PCC6803	22	<0.4	51	3	<0.4	<0.4	2	6	8.0	21	8

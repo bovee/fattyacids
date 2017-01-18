@@ -1,16 +1,16 @@
-Ref Loc	Species	Strain	Notes	A-C13:0	A-C15:0	A-C17:0	I-C13:0	I-C15:0	I-C17:0	I-C14:0	I-C16:0	I-C18:0	C15:0	C17:0	C12:0	C14:0	C16:0	C18:0	C12:1	C14:1	C16:1	C18:1	Cyc-C17:0	Cyc-C19:0	Unknown
-Table 1	Bacillus subtilis	AM-1523	Harvested after 72 hr	0.1	43.4	17.1	0.1	14.0	13.1	1.7	6.9	0.3	<0.1	<0.1	<0.1	0.2	1.3	<0.1							0.1
-Table 1	Bacillus coagulans	P-22	Harvested after 72 hr	<0.1	26.7	27.3	0.1	24.0	4.6	0.3	5.5		<0.1	<0.1	0.1	4.8	6.3								0.1
-Table 1	Bacillus racemilactus	M-5	Harvested after 72 hr	0.1	36.4	27.0	<0.1	21.9	4.5	1.0	5.2		<0.1	<0.1	0.1	0.7	3.2	<0.1							0.1
-Table 1	Bacillus laevolacticus	M-7	Harvested after 72 hr	0.1	31.7	36.2		18.1	7.2	0.3	3.6		<0.1	<0.1	<0.1	0.5	2.5	<0.1							
-Table 1	Bacillus mixolactis	M-105	Harvested after 72 hr	0.1	38.6	35.4		14.3	2.1	0.5	3.4		<0.1	<0.1	<0.1	1.0	3.7								
-Table 1	Sporolactobacillus inulinus	M-20	Harvested after 72 hr	0.2	44.5	38.0		7.6	1.2	0.3	2.7		<0.1	<0.1	<0.1	1.9	3.5								
-Table 1	Sporolactobacillus inulinus	6-11	Harvested after 72 hr	0.4	53.9	26.4	<0.1	13.4	0.9	0.2	1.0		<0.1	<0.1	0.1	1.4	2.3								
-Table 1	Sporolactobacillus laevus	M-47	Harvested after 72 hr	0.1	44.9	32.1		12.2	3.5	0.6	2.7		<0.1	<0.1		1.1	3.0	<0.1							
-Table 1	Sporolactobacillus racemicus	M-11	Harvested after 72 hr	0.4	35.5	20.0	0.2	29.4	4.4	1.2	3.2		<0.1	<0.1	0.1	2.8	2.7								
-Table 1	Lactobacillus yamanashiensis	239	Harvested after 72 hr												0.1	4.9	32.3	0.6		0.3	8.0	8.7	1.8	43.3	
-Table 1	Lactobacillus plantarum	IAM-1216	Harvested after 72 hr												0.1	0.9	14.4	0.6	0.2	<0.1	8.8	58.1	0.4	16.5	
-Table 1	Lactobacillus casei	ATCC 7469	Harvested after 72 hr												0.1	1.0	17.1	3.3	<0.1	0.3	9.2	43.5	0.2	24.1	1.3
-Table 2	Bacillus racemilactus	M-5	Harvested after 48 hr	0.1	34.9	28.3	<0.1	22.2	4.4	1.3	5.2		<0.1	<0.1	<0.1	0.6	3.1	<0.1							
-Table 2	Sporolactobacillus laevus	M-47	Harvested after 48 hr	<0.1	46.0	32.5		12.5	2.1	0.6	2.6		<0.1	<0.1		0.8	2.9								
-Table 2	Sporolactobacillus laevus	M-47	Harvested after 72 hr	<0.1	45.0	33.9		11.9	2.2	0.5	2.7		0.1	<0.1		0.8	2.9								
+Tax ID	Species	Strain	Notes	A-C13:0	A-C15:0	A-C17:0	I-C13:0	I-C15:0	I-C17:0	I-C14:0	I-C16:0	I-C18:0	C15:0	C17:0	C12:0	C14:0	C16:0	C18:0	C12:1	C14:1	C16:1	C18:1	Cyc-C17:0	Cyc-C19:0	Unknown
+1423	Bacillus subtilis	AM-1523	Harvested after 72 hr	0.1	43.4	17.1	0.1	14.0	13.1	1.7	6.9	0.3	<0.1	<0.1	<0.1	0.2	1.3	<0.1							0.1
+1398	Bacillus coagulans	P-22	Harvested after 72 hr	<0.1	26.7	27.3	0.1	24.0	4.6	0.3	5.5		<0.1	<0.1	0.1	4.8	6.3								0.1
+33022	Bacillus racemilacticus	M-5	Harvested after 72 hr	0.1	36.4	27.0	<0.1	21.9	4.5	1.0	5.2		<0.1	<0.1	0.1	0.7	3.2	<0.1							0.1
+33018	Bacillus laevolacticus	M-7	Harvested after 72 hr	0.1	31.7	36.2		18.1	7.2	0.3	3.6		<0.1	<0.1	<0.1	0.5	2.5	<0.1							
+	Bacillus mixolactis	M-105	Harvested after 72 hr	0.1	38.6	35.4		14.3	2.1	0.5	3.4		<0.1	<0.1	<0.1	1.0	3.7								
+2078	Sporolactobacillus inulinus	M-20	Harvested after 72 hr	0.2	44.5	38.0		7.6	1.2	0.3	2.7		<0.1	<0.1	<0.1	1.9	3.5								
+2078	Sporolactobacillus inulinus	6-11	Harvested after 72 hr	0.4	53.9	26.4	<0.1	13.4	0.9	0.2	1.0		<0.1	<0.1	0.1	1.4	2.3								
+2080	Sporolactobacillus laevus	M-47	Harvested after 72 hr	0.1	44.9	32.1		12.2	3.5	0.6	2.7		<0.1	<0.1		1.1	3.0	<0.1							
+33027	Sporolactobacillus racemicus	M-11	Harvested after 72 hr	0.4	35.5	20.0	0.2	29.4	4.4	1.2	3.2		<0.1	<0.1	0.1	2.8	2.7								
+1618	Lactobacillus yamanashiensis	239	Harvested after 72 hr												0.1	4.9	32.3	0.6		0.3	8.0	8.7	1.8	43.3	
+1590	Lactobacillus plantarum	IAM-1216	Harvested after 72 hr												0.1	0.9	14.4	0.6	0.2	<0.1	8.8	58.1	0.4	16.5	
+1582	Lactobacillus casei	ATCC 7469	Harvested after 72 hr												0.1	1.0	17.1	3.3	<0.1	0.3	9.2	43.5	0.2	24.1	1.3
+33022	Bacillus racemilacticus	M-5	Harvested after 48 hr	0.1	34.9	28.3	<0.1	22.2	4.4	1.3	5.2		<0.1	<0.1	<0.1	0.6	3.1	<0.1							
+2080	Sporolactobacillus laevus	M-47	Harvested after 48 hr	<0.1	46.0	32.5		12.5	2.1	0.6	2.6		<0.1	<0.1		0.8	2.9								
+2080	Sporolactobacillus laevus	M-47	Harvested after 72 hr	<0.1	45.0	33.9		11.9	2.2	0.5	2.7		0.1	<0.1		0.8	2.9								

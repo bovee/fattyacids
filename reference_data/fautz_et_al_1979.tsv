@@ -1,6 +1,6 @@
-Ref Loc	Species	Strain	Temp	Phase	C12:0	11Me-C12:0	C13:0	12Me-C13:0	C14:0	13Me-C14:0	C15:0	14Me-C15:0	C15:1	C16:0	15Me-C16:0	C16:1	C17:0	15Me-C16:1	15Me-C16:1.1	C17:1	C18:0	2OH-13Me-C14:0	2OH-C15:0	3OH-C14:0	3OH-13Me-C14:0	2OH-C16:0	2OH-15Me-C16:0	3OH-C16:0	3OH-15Me-C16:0	3OH-C17:0	Unknown
-Table 1	Flexibacter elegans	Fx e1	30	End Log	<0.1	<0.1	<0.1	<0.1	0.6	32.7	0.5	0.1		5.6	0.5	14.9					<0.1	10.6	<0.1	0.1	3.4	4.6	0.4	3.2	22.8	<0.1	
-Table 1	Myxococcus fulvus	Mx f2	30	End Log	<0.1	0.9		0.2	2.2	23.6	0.7	1.5		6.9	17.0	23.6		6.8	1.6		0.5	0.4		0.4	1.5		9.6		2.6		
-Table 1	Stigmatella aurantiaca	Sg a1	30	End Log	0.8	1		0.2	8.3	35.6	1.5	8.1	3.5		8.3	15.0	1.0	1.7		0.2					0.9	<0.1	11.9	<0.1	1.7		
-Table 1	Cytophaga johnsonae	Cy j1	30	End Log	<0.1	0.1	<0.1	0.2	1.0	24.3	16.0		7.4	3.1	1.0	11.0		1.9		3.0		2.6		0.9	8.5			5.9	8.2	0.4	3.7
-Table 1	Cytophaga	Samoa	30	End Log				0.1	0.9	22.4	5.0		0.7	9.9	1.0	6.0		1.5		0.1				1.1	14.2			11.2	24.5		1.3
+Tax ID	Species	Strain	Temp	Phase	C12:0	11Me-C12:0	C13:0	12Me-C13:0	C14:0	13Me-C14:0	C15:0	14Me-C15:0	C15:1	C16:0	15Me-C16:0	C16:1	C17:0	15Me-C16:1	15Me-C16:1.1	C17:1	C18:0	2OH-13Me-C14:0	2OH-C15:0	3OH-C14:0	3OH-13Me-C14:0	2OH-C16:0	2OH-15Me-C16:0	3OH-C16:0	3OH-15Me-C16:0	3OH-C17:0	Unknown
+997	Flexibacter elegans	Fx e1	30	End Log	<0.1	<0.1	<0.1	<0.1	0.6	32.7	0.5	0.1		5.6	0.5	14.9					<0.1	10.6	<0.1	0.1	3.4	4.6	0.4	3.2	22.8	<0.1	
+33	Myxococcus fulvus	Mx f2	30	End Log	<0.1	0.9		0.2	2.2	23.6	0.7	1.5		6.9	17.0	23.6		6.8	1.6		0.5	0.4		0.4	1.5		9.6		2.6		
+41	Stigmatella aurantiaca	Sg a1	30	End Log	0.8	1		0.2	8.3	35.6	1.5	8.1	3.5		8.3	15.0	1.0	1.7		0.2					0.9	<0.1	11.9	<0.1	1.7		
+986	Cytophaga johnsonae	Cy j1	30	End Log	<0.1	0.1	<0.1	0.2	1.0	24.3	16.0		7.4	3.1	1.0	11.0		1.9		3.0		2.6		0.9	8.5			5.9	8.2	0.4	3.7
+978	Cytophaga	Samoa	30	End Log				0.1	0.9	22.4	5.0		0.7	9.9	1.0	6.0		1.5		0.1				1.1	14.2			11.2	24.5		1.3

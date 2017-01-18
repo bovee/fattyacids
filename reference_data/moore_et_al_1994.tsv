@@ -1,23 +1,23 @@
-Ref Loc	Species	Strain	Temp	Medium	N	C11:0	C12:0	C13:0	C14:0	C15:0	C16:0	C18:0	C16:1ω7c	C16:1ω9c	C18:1ω9c	I-C13:0	I-C14:0	I-C15:0	A-C15:0	I-C16:0	I-C17:0	3OH-C16:0	C14:0-DMA	C16:0-DMA	C18:1-DMA	C18:1ω11-DMA	Other|MIDI|C15:0-DMA&3OH-C14:0	Other|MIDI|C17:1ω9&C17:2	Other|MIDI|C18:1ω11c&C18:1ω9t&C18:1ω6t	Other|MIDI|3OH-I-C17:0&C18:2-DMA	Unknown
-Table 2	Anaerorhabdus furcosus	ATCC 25662	37	PYG broth	1		1.0				13.0	25.0	2.0	2.0	28									3.0					18.0		
-Table 2	Anaerovibrio lipolytica	ATCC 33276	37	PYG broth	1	5.0	3.0	4.0		8.0	1.0		6.0		3								11.0		8.0		4.0	18.0			
-Table 2	Bilophila wadsworthia		37	PYG broth	7				6.0		26.0	7.0		2.0	8			17.0			1.0	2.0		7.0					2.0		
-Table 2	Butyrivibrio fibrisolvens	ATCC 19171	37	PYG broth with volative fatty acids	1		1.0		4.0		45.0	3.0		1.0	2								2.0	11.0		15.0		3.0	4.0		
-Table 2	Catonella morbi		37	PYG broth	8		3.0		42.0		12.0	4.0		2.0	5								14.0	1.0							
-Table 2	Centipeda periodontii	ATCC 35019	37	PYG broth	1	4.0	1.0	14.0	1.0	21.0			3.0		1								17.0		4.0		3.0	7.0			
-Table 2	Desulfomonas pigra	ATCC 29098	37	Pyruvate medium	1				1.0		30.0	3.0		13.0	1			21.0			21.0			3.0					1.0		
-Table 2	Dialister pneumosintes		37	PYG broth	53		8.0		5.0		20.0	12.0		11.0	21					1.0							8.0		2.0		
-Table 2	Dichelobacter nodosus		37	PYG broth	2		5.0		3.0		18.0	3.0		21.0	4												1.0	1.0	34.0		
-Table 2	Eikenella corrodens		37	PYG broth	72		7.0		2.0		24.0	6.0		15.0	7							1.0							27.0		
-Table 2	Fibrobacter succinogenes	ATCC 19169	37	PYG broth with volatile fatty acids	1				19.0	2.0	20.0	5.0		3.0	10		3.0		2.0	7.0			8.0						1.0		
-Table 2	Hallella seregens		37	PYG broth	6				11.0	1.0	23.0	2.0		2.0	3		15.0		5.0	15.0		16.0		1.0							
-Table 2	Johnsonella ignava		37	PYG broth	11				8.0		15.0	4.0		2.0	5									5.0		2.0			3.0	1.0	45.0
-Table 2	Leptotrichia buccalis		37	PYG broth	57		6.0		10.0		42.0	1.0		2.0	1												8.0		28.0		
-Table 2	Megamonas hypermegas		37	PYG broth	9	11.0				18.0	2.0	1.0	2.0		1								21.0		8.0		1.0	17.0			
-Table 2	Mitsuokella multiacida	ATCC 27723	37	PYG broth	1		12.0		7.0		11.0	2.0	20.0	3.0	5									2.0			19.0				
-Table 2	Oribaculum catoniae		37	PYG broth	59		1.0		7.0	2.0	5.0			1.0	1	15.0		26.0	23.0		2.0	1.0								5.0	
-Table 2	Rikenella microfusus	ATCC 29728	37	PYG broth	1				1.0	9.0	7.0	4.0		1.0	8	1.0		36.0			1.0	1.0							1.0	15.0	
-Table 2	Ruminobacter amylophilus	ATCC 29744	37	PYG broth	1		4.0		13.0		31.0	5.0		5.0	14							2.0		1.0			2.0		19.0		
-Table 2	Succinimonas amylolytica ATCC 1920	ATCC 29744	37	PYG broth with volatile fatty acids	1		16.0		11.0	1.0	37.0	2.0		3.0	3					4.0		8.0					3.0		13.0		
-Table 2	Succinivibrio dextrinosolvens		37	PYG broth	2		1.0		20.0		32.0	1.0		6.0	1							3.0					8.0		28.0		
-Table 2	Tissierella praeacuta	ATCC 25539	37	PYG broth	5		2.0		14.0	1.0	19.0	3.0		4.0	2	4.0		23.0	5.0		2.0		2.0	8.0							
+Tax ID	Species	Strain	Temp	Medium	N	C11:0	C12:0	C13:0	C14:0	C15:0	C16:0	C18:0	C16:1ω7c	C16:1ω9c	C18:1ω9c	I-C13:0	I-C14:0	I-C15:0	A-C15:0	I-C16:0	I-C17:0	3OH-C16:0	C14:0-DMA	C16:0-DMA	C18:1-DMA	C18:1ω11-DMA	Other|MIDI|C15:0-DMA&3OH-C14:0	Other|MIDI|C17:1ω9&C17:2	Other|MIDI|C18:1ω11c&C18:1ω9t&C18:1ω6t	Other|MIDI|3OH-I-C17:0&C18:2-DMA	Unknown
+118967	Anaerorhabdus furcosus	ATCC 25662	37	PYG broth	1		1.0				13.0	25.0	2.0	2.0	28									3.0					18.0		
+82374	Anaerovibrio lipolytica	ATCC 33276	37	PYG broth	1	5.0	3.0	4.0		8.0	1.0		6.0		3								11.0		8.0		4.0	18.0			
+35833	Bilophila wadsworthia		37	PYG broth	7				6.0		26.0	7.0		2.0	8			17.0			1.0	2.0		7.0					2.0		
+831	Butyrivibrio fibrisolvens	ATCC 19171	37	PYG broth with volative fatty acids	1		1.0		4.0		45.0	3.0		1.0	2								2.0	11.0		15.0		3.0	4.0		
+43997	Catonella morbi		37	PYG broth	8		3.0		42.0		12.0	4.0		2.0	5								14.0	1.0							
+82203	Centipeda periodontii	ATCC 35019	37	PYG broth	1	4.0	1.0	14.0	1.0	21.0			3.0		1								17.0		4.0		3.0	7.0			
+901	Desulfomonas pigra	ATCC 29098	37	Pyruvate medium	1				1.0		30.0	3.0		13.0	1			21.0			21.0			3.0					1.0		
+39950	Dialister pneumosintes		37	PYG broth	53		8.0		5.0		20.0	12.0		11.0	21					1.0							8.0		2.0		
+870	Dichelobacter nodosus		37	PYG broth	2		5.0		3.0		18.0	3.0		21.0	4												1.0	1.0	34.0		
+539	Eikenella corrodens		37	PYG broth	72		7.0		2.0		24.0	6.0		15.0	7							1.0							27.0		
+833	Fibrobacter succinogenes	ATCC 19169	37	PYG broth with volatile fatty acids	1				19.0	2.0	20.0	5.0		3.0	10		3.0		2.0	7.0			8.0						1.0		
+52229	Hallella seregens		37	PYG broth	6				11.0	1.0	23.0	2.0		2.0	3		15.0		5.0	15.0		16.0		1.0							
+43995	Johnsonella ignava		37	PYG broth	11				8.0		15.0	4.0		2.0	5									5.0		2.0			3.0	1.0	45.0
+40542	Leptotrichia buccalis		37	PYG broth	57		6.0		10.0		42.0	1.0		2.0	1												8.0		28.0		
+158847	Megamonas hypermegas		37	PYG broth	9	11.0				18.0	2.0	1.0	2.0		1								21.0		8.0		1.0	17.0			
+52226	Mitsuokella multacida	ATCC 27723	37	PYG broth	1		12.0		7.0		11.0	2.0	20.0	3.0	5									2.0			19.0				
+41976	Oribaculum catoniae		37	PYG broth	59		1.0		7.0	2.0	5.0			1.0	1	15.0		26.0	23.0		2.0	1.0								5.0	
+28139	Rikenella microfusus	ATCC 29728	37	PYG broth	1				1.0	9.0	7.0	4.0		1.0	8	1.0		36.0			1.0	1.0							1.0	15.0	
+867	Ruminobacter amylophilus	ATCC 29744	37	PYG broth	1		4.0		13.0		31.0	5.0		5.0	14							2.0		1.0			2.0		19.0		
+83769	Succinimonas amylolytica	ATCC 19206	37	PYG broth with volatile fatty acids	1		16.0		11.0	1.0	37.0	2.0		3.0	3					4.0		8.0					3.0		13.0		
+83771	Succinivibrio dextrinosolvens		37	PYG broth	2		1.0		20.0		32.0	1.0		6.0	1							3.0					8.0		28.0		
+43131	Tissierella praeacuta	ATCC 25539	37	PYG broth	5		2.0		14.0	1.0	19.0	3.0		4.0	2	4.0		23.0	5.0		2.0		2.0	8.0							

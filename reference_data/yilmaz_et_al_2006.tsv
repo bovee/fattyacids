@@ -1,8 +1,8 @@
-Ref Loc	Species	C10:0	3OH-C10:0	C12:0	2OH-C12:0	3OH-C12:0	C13:0	I-C13:0	C14:0	2OH-C14:0	I-C14:0	C15:0	I-C15:0	A-C15:0	C16:0	I-C16:0	I-C17:1ω10c	I-C17:1ω5c	C17:0	Cyc-C17:0	I-C17:0	A-C17:0	C18:1ω7c	C18:0	Cyc-C19:0	Unknown	Other|MIDI2|I-C16:1&3OH-C14:0	Other|MIDI3|C16:1ω6c&2OH-I-C15:0
-Table 4	Micrococcus luteus										0.9		10.76	53.97	3.86	12.97					1.91	15.65						
-Table 4	Bacillus thuringiensis							9.75	3.46		4.46		26.72	6.0	6.54	6.46	4.03	7.2			8.32						3.53	13.53
-Table 4	Serratia grimesii			3.18	0.49				6.71						31.71					5.35			13.37	0.7		1.17	7.78	29.54
-Table 4	Enterobacter cloaceae			3.41			0.36		5.51			1.69			27.17				1.69	4.83			20.78			1.34	6.78	26.45
-Table 4	Enterobacter intermedius			3.37	0.53				5.66	1.21		1.59			27.5				1.31	6.54			11.62	0.49		0.71	8.31	30.84
-Table 4	Streptococcus sp								17.02						49.76								18.99		14.24			
-Table 4	Pseudomonas putida	0.24	3.85	3.39	4.55	3.91			0.69						27.96				0.25	5.19			18.49		0.49			31.02
+Tax ID	Species	C10:0	3OH-C10:0	C12:0	2OH-C12:0	3OH-C12:0	C13:0	I-C13:0	C14:0	2OH-C14:0	I-C14:0	C15:0	I-C15:0	A-C15:0	C16:0	I-C16:0	I-C17:1ω10c	I-C17:1ω5c	C17:0	Cyc-C17:0	I-C17:0	A-C17:0	C18:1ω7c	C18:0	Cyc-C19:0	Unknown	Other|MIDI2|I-C16:1&3OH-C14:0	Other|MIDI3|C16:1ω6c&2OH-I-C15:0
+1270	Micrococcus luteus										0.9		10.76	53.97	3.86	12.97					1.91	15.65						
+1428	Bacillus thuringiensis							9.75	3.46		4.46		26.72	6.0	6.54	6.46	4.03	7.2			8.32						3.53	13.53
+82995	Serratia grimesii			3.18	0.49				6.71						31.71					5.35			13.37	0.7		1.17	7.78	29.54
+550	Enterobacter cloaceae			3.41			0.36		5.51			1.69			27.17				1.69	4.83			20.78			1.34	6.78	26.45
+61648	Enterobacter intermedius			3.37	0.53				5.66	1.21		1.59			27.5				1.31	6.54			11.62	0.49		0.71	8.31	30.84
+1301	Streptococcus								17.02						49.76								18.99		14.24			
+303	Pseudomonas putida	0.24	3.85	3.39	4.55	3.91			0.69						27.96				0.25	5.19			18.49		0.49			31.02

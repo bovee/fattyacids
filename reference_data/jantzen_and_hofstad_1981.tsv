@@ -1,32 +1,32 @@
-Ref Loc	Taxon	Strain	Temp	C12:0	3OH-C12:0	C14:0	3OH-C14:0	C15:0	C16:1	C16:0	3OH-C16:0	C17:0	C18:2	C18:1	C18:0
-Table 2	Fusobacterium nucleatum	Fev 1	37	1.7		24.5	15.2	0.4	14.6	26.1	4.6		1.4	9.9	1.3
-Table 2	Fusobacterium nucleatum	F1	37	2.5		28.3	14.9	1.5	18.7	22.6	4.3		1.5	5.0	1.2
-Table 2	Fusobacterium nucleatum	F8	37	1.8		26.5	16.2	<0.1	13.3	25.8	5.9	<0.1	1.9	6.6	1.9
-Table 2	Fusobacterium nucleatum	F15	37	2.2		24.5	14.1	1	16.5	24.6	6.2		1.4	7.8	1.7
-Table 2	Fusobacterium nucleatum	ATCC 10953	37	2.3		27.8	15.4	0.7	19.3	21.1	5.5		1.2	4.7	1.8
-Table 2	Fusobacterium necroporum	SPH1	37	2.5		15.9	24.8	1.4	5.8	18.2		<0.1	6.7	19.9	4.6
-Table 2	Fusobacterium necroporum	VPI 6161	37	3.1		14.4	24.7	0.6	8.6	20.9		0.1	7.4	15.2	5.0
-Table 2	Fusobacterium necroporum	N167	37	3.3		13.0	28.2	1.1	6.8	21.6		<0.1	6.1	15.5	4.3
-Table 2	Fusobacterium mortiferum	VPI 4249	37	1.2		19.5	13.9	3.8	13	23.8			5.4	9.6	9.7
-Table 2	Fusobacterium mortiferum	VPI 5696; Finegold B609	37	0.5		12.1	10.5	1.2	13.2	26.1		<0.1	6.6	9.8	20.0
-Table 2	Fusobacterium mortiferum	VPI 473	37	0.9		15.6	16.9	2.4	23.4	28.7			2.6	7.7	2.0
-Table 2	Fusobacterium mortiferum	VPI 4123A; ATCC 25557; Prevot 350A	37	<0.1		13.7	20.4	0.9	21.8	28.5		0.1	2.1	8.5	4.1
-Table 2	Fusobacterium gonidiaformans	VPI 4381; Prevot 470D	37	3.6		15.8	12.0		7.1	16.5		0.2	8.1	12.4	24.5
-Table 2	Fusobacterium gonidiaformans	VPI 0482A; ATCC 25563; Prevot 3554A	37	4.7		9.9	18.5	<0.1	3.6	30.3		<0.1	6.1	10.8	16.0
-Table 2	Fusobacterium gonidiaformans	VPI 4879	37	0.7		4.6	7.9		2.9	24.1			10.7	11.8	36.3
-Table 2	Fusobacterium gonidiaformans	VPI 11360	37	2.6		7.9	19.4	0.1	2.9	28.7			8.8	12.0	17.4
-Table 2	Fusobacterium varium	VPI 4234; Prevot 587A	37	0.8		19.4	22.1	0.4	19.6	22.1		0.1	3.7	5.2	6.5
-Table 2	Fusobacterium varium	VPI 0499A; Prevot 1669BA	37	0.9		20.6	29.8	<0.1	20.2	21.5			1.6	3.7	1.5
-Table 2	Fusobacterium varium	ATCC 8501	37	0.7		14.0	31.9	0.1	23	19.3			1.4	5.2	4.3
-Table 2	Fusobacterium varium	Lille 109	37	1.1		20.1	28.3	<0.1	20.9	20.3			2.6	4.8	1.9
-Table 2	Fusobacterium naviforme	VPI 4877; Prevot 1800	37	6.1	8.5	8.7	8.1	<0.1	1.7	26.3		0.2	11.6	16.9	11.8
-Table 2	Fusobacterium naviforme	VPI 11936C	37	8.6		31.1		2.9	7.5	30.0		0.4	3.2	9.1	7.2
-Table 2	Fusobacterium naviforme	VPI 12188	37	5.8		11.3		0.2	6.1	40.3		<0.1	11.7	12.0	12.7
-Table 2	Fusobacterium russii	VPI 0307; ATCC 25533; Prevot 593A	37	4.6		12.1	16.1	<0.1	14.4	34.5		<0.1	1.3	11.9	4.1
-Table 2	Fusobacterium russii	VPI 10646	37	11		27.7		0.1	2.8	37.8			2.6	4.0	4.2
-Table 2	Fusobacterium russii	VPI 11018	37	6.7		21.4		0.2	3.3	40.2			10.0	12.9	5.5
-Table 2	Fusobacterium plauti	VPI 0310; Prevot S1	37	<0.1		33.1		4.4	4.1	35.2		3.4	4.6	10.1	5.0
-Table 2	Fusobacterium plauti	VPI 0311; Prevot S2	37	0.1		26.8		0.9	3.8	36.0		1	6.9	16.8	7.7
-Table 2	Fusobacterium plauti	VPI 0312; Prevot S4	37	<0.1		33.4		<0.1	3.1	40.7		<0.1	4.5	12.9	5.3
-Table 2	Fusobacterium plauti	VPI 4145; Prevot S3	37	0.2		26.7			5	31.7		0.9	13.3	16.5	5.4
-Table 2	Fusobacterium prausnitzii	VPI 4815	37	2.7		25.6		<0.1	<0.1	56.6		4.1	2.3	4.8	3.9
+Tax ID	Species	Strain	Temp	C12:0	3OH-C12:0	C14:0	3OH-C14:0	C15:0	C16:1	C16:0	3OH-C16:0	C17:0	C18:2	C18:1	C18:0
+851	Fusobacterium nucleatum	Fev 1	37	1.7		24.5	15.2	0.4	14.6	26.1	4.6		1.4	9.9	1.3
+851	Fusobacterium nucleatum	F1	37	2.5		28.3	14.9	1.5	18.7	22.6	4.3		1.5	5.0	1.2
+851	Fusobacterium nucleatum	F8	37	1.8		26.5	16.2	<0.1	13.3	25.8	5.9	<0.1	1.9	6.6	1.9
+851	Fusobacterium nucleatum	F15	37	2.2		24.5	14.1	1	16.5	24.6	6.2		1.4	7.8	1.7
+851	Fusobacterium nucleatum	ATCC 10953	37	2.3		27.8	15.4	0.7	19.3	21.1	5.5		1.2	4.7	1.8
+859	Fusobacterium necrophorum	SPH1	37	2.5		15.9	24.8	1.4	5.8	18.2		<0.1	6.7	19.9	4.6
+859	Fusobacterium necrophorum	VPI 6161	37	3.1		14.4	24.7	0.6	8.6	20.9		0.1	7.4	15.2	5.0
+859	Fusobacterium necrophorum	N167	37	3.3		13.0	28.2	1.1	6.8	21.6		<0.1	6.1	15.5	4.3
+850	Fusobacterium mortiferum	VPI 4249	37	1.2		19.5	13.9	3.8	13	23.8			5.4	9.6	9.7
+850	Fusobacterium mortiferum	VPI 5696; Finegold B609	37	0.5		12.1	10.5	1.2	13.2	26.1		<0.1	6.6	9.8	20.0
+850	Fusobacterium mortiferum	VPI 473	37	0.9		15.6	16.9	2.4	23.4	28.7			2.6	7.7	2.0
+850	Fusobacterium mortiferum	VPI 4123A; ATCC 25557; Prevot 350A	37	<0.1		13.7	20.4	0.9	21.8	28.5		0.1	2.1	8.5	4.1
+849	Fusobacterium gonidiaformans	VPI 4381; Prevot 470D	37	3.6		15.8	12.0		7.1	16.5		0.2	8.1	12.4	24.5
+849	Fusobacterium gonidiaformans	VPI 0482A; ATCC 25563; Prevot 3554A	37	4.7		9.9	18.5	<0.1	3.6	30.3		<0.1	6.1	10.8	16.0
+849	Fusobacterium gonidiaformans	VPI 4879	37	0.7		4.6	7.9		2.9	24.1			10.7	11.8	36.3
+849	Fusobacterium gonidiaformans	VPI 11360	37	2.6		7.9	19.4	0.1	2.9	28.7			8.8	12.0	17.4
+856	Fusobacterium varium	VPI 4234; Prevot 587A	37	0.8		19.4	22.1	0.4	19.6	22.1		0.1	3.7	5.2	6.5
+856	Fusobacterium varium	VPI 0499A; Prevot 1669BA	37	0.9		20.6	29.8	<0.1	20.2	21.5			1.6	3.7	1.5
+856	Fusobacterium varium	ATCC 8501	37	0.7		14.0	31.9	0.1	23	19.3			1.4	5.2	4.3
+856	Fusobacterium varium	Lille 109	37	1.1		20.1	28.3	<0.1	20.9	20.3			2.6	4.8	1.9
+77917	Fusobacterium naviforme	VPI 4877; Prevot 1800	37	6.1	8.5	8.7	8.1	<0.1	1.7	26.3		0.2	11.6	16.9	11.8
+77917	Fusobacterium naviforme	VPI 11936C	37	8.6		31.1		2.9	7.5	30.0		0.4	3.2	9.1	7.2
+77917	Fusobacterium naviforme	VPI 12188	37	5.8		11.3		0.2	6.1	40.3		<0.1	11.7	12.0	12.7
+854	Fusobacterium russii	VPI 0307; ATCC 25533; Prevot 593A	37	4.6		12.1	16.1	<0.1	14.4	34.5		<0.1	1.3	11.9	4.1
+854	Fusobacterium russii	VPI 10646	37	11		27.7		0.1	2.8	37.8			2.6	4.0	4.2
+854	Fusobacterium russii	VPI 11018	37	6.7		21.4		0.2	3.3	40.2			10.0	12.9	5.5
+292800	Fusobacterium plautii	VPI 0310; Prevot S1	37	<0.1		33.1		4.4	4.1	35.2		3.4	4.6	10.1	5.0
+292800	Fusobacterium plautii	VPI 0311; Prevot S2	37	0.1		26.8		0.9	3.8	36.0		1	6.9	16.8	7.7
+292800	Fusobacterium plautii	VPI 0312; Prevot S4	37	<0.1		33.4		<0.1	3.1	40.7		<0.1	4.5	12.9	5.3
+292800	Fusobacterium plautii	VPI 4145; Prevot S3	37	0.2		26.7			5	31.7		0.9	13.3	16.5	5.4
+853	Fusobacterium prausnitzii	VPI 4815	37	2.7		25.6		<0.1	<0.1	56.6		4.1	2.3	4.8	3.9

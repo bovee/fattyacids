@@ -1,18 +1,18 @@
-Ref Loc	Species	Strain	Temp	Medium	C14:0	C16:0	C18:0	C14:1	C16:1	C18:1	C18:2	C18:1ω9,12,15c	C18:1ω6,9,12c	C18:4
-Table 4	Microcoleus vaginatus	6304; SAUG B-1449-3	30	BG11	<1	26	1	<1	6	6	8.0	15		35.0
-Table 4	Oscillatoria	6401	25	BG11	5	35	1		4	9	12.0	31		2.0
-Table 4	Oscillatoria	6407	25	BG11	1	12	4	<1	3	15	30.0	5	5.0	
-Table 4	Oscillatoria	6412; ICC 1546	25	BG11	1	13	5	<1	4	13	28.0	10	3.0	
-Table 4	Oscillatoria	6506; ICC 1547	25	BG11	1	22	1	<1	6	6	29.0	15		
-Table 4	Oscillatoria	6602	25	BG11	1	14	5	<1	2	13	26.0	16		
-Table 4	Oscillatoria agardhii	6507; var suspensa	25	BG11	1	12	2	<1	14	7	18.0	21	4.0	
-Table 4	Lyngbya	6703	25	BG11	1	28	4	<1	9	11	21.0	15		
-Table 4	Lyngbya	6404	30	BG11	<1	14	2	<1	36	12	26.0			3.0
-Table 4	Phormidium	6409; ICC 1540	25	BG11	1	18	3	<1	9	21	32.0	1		2.0
-Table 4	Schizothrix calcicola	7004; MAN	25	BG11	1	16	3	<1	20	16	16.0	16		
-Table 4	Lyngbya lagerheimii	7104; MONT	30	BG11	1	22	3	<1	13	26	21.0	1		
-Table 4	Plectonema boryanum	6306; SAUG B-1463-1A	25	BG11	1	21	2		30	16	25.0	1		
-Table 4	Plectonema	6402; ICC 1541	25	BG11	<1	21	1	<1	33	13	29.0	<1		
-Table 4	Spirulina	6313	25	BG11	21	33	1	12	27	2				
-Table 4	Spirulina	H-1	30	BG11	25	11	2	14	34	2				
-Table 4	Spirulina	7106	25	BG11	<1	33	4		2	7	12.0	27		
+Tax ID	Species	Strain	Temp	Medium	C14:0	C16:0	C18:0	C14:1	C16:1	C18:1	C18:2	C18:1ω9,12,15c	C18:1ω6,9,12c	C18:4
+119532	Microcoleus vaginatus	6304; SAUG B-1449-3	30	BG11	<1	26	1	<1	6	6	8.0	15		35.0
+1158	Oscillatoria	6401	25	BG11	5	35	1		4	9	12.0	31		2.0
+1158	Oscillatoria	6407	25	BG11	1	12	4	<1	3	15	30.0	5	5.0	
+1158	Oscillatoria	6412; ICC 1546	25	BG11	1	13	5	<1	4	13	28.0	10	3.0	
+1158	Oscillatoria	6506; ICC 1547	25	BG11	1	22	1	<1	6	6	29.0	15		
+1158	Oscillatoria	6602	25	BG11	1	14	5	<1	2	13	26.0	16		
+1160	Oscillatoria agardhii	6507; var suspensa	25	BG11	1	12	2	<1	14	7	18.0	21	4.0	
+28073	Lyngbya	6703	25	BG11	1	28	4	<1	9	11	21.0	15		
+28073	Lyngbya	6404	30	BG11	<1	14	2	<1	36	12	26.0			3.0
+1198	Phormidium	6409; ICC 1540	25	BG11	1	18	3	<1	9	21	32.0	1		2.0
+240295	Schizothrix calcicola	7004; MAN	25	BG11	1	16	3	<1	20	16	16.0	16		
+28074	Lyngbya lagerheimii	7104; MONT	30	BG11	1	22	3	<1	13	26	21.0	1		
+1184	Plectonema boryanum	6306; SAUG B-1463-1A	25	BG11	1	21	2		30	16	25.0	1		
+1183	Plectonema	6402; ICC 1541	25	BG11	<1	21	1	<1	33	13	29.0	<1		
+1154	Spirulina	6313	25	BG11	21	33	1	12	27	2				
+1154	Spirulina	H-1	30	BG11	25	11	2	14	34	2				
+1154	Spirulina	7106	25	BG11	<1	33	4		2	7	12.0	27		

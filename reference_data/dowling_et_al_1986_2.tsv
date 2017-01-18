@@ -1,7 +1,7 @@
-Ref Loc	Species	Strain	Temp	Notes	I-C14:0	C14:1ω7	C14:1	C14:0	Br-C15:1	I-C15:0	A-C15:0	C15:1ω6	C15:0	Br-C16:1ω6	I-C16:0	C16:1ω9	C16:1ω7c	C16:1ω7t	C16:1ω5	C16:0	I-C17:1ω7	I-C17:0	A-C17:0	C17:1ω8	C17:1ω6	9,10Cyc-C17:0	Cyc-C17:0	C17:0	I-C18:0	C18:1ω9	C18:1ω7c	C18:1ω7t	C18:1ω5	C18:0	I-C19:0	A-C19:0	Cyc-C19:0	Other
-Table 3	“Fat Vibrio” sp. AcKo		24	Species name might be in Widdel 1987 Archives of Microbiology	<0.1	0.2	0.1	5.5	0.3	3.5	<0.1	<0.1	0.1	<0.1	0.2	0.8	23.9	0.4	1.6	41.5	1.0	0.6	<0.1			18.2	1.1	<0.1		0.1	0.5			<0.1		<0.1	0.3	0.1
-Table 3	Desulfotomaculum acetoxidans	DSM 771	35					1.3		0.5			0.3			5.9	24.4	0.6	4.8	34.0										1	24.1	0.4	1.4	1.2				0.1
-Table 3	Desulfotomaculum acetoxidans	DSM 771	35	Grown with volatile fatty acids	0.3			0.6		0.9		0.4	4.5	3.2	2.0	3.5	13.4	<0.1	2.6	22.2				5.2	13.3			7		0.9	17.0		0.9	1.2		0.8		0.1
-Table 3	Desulfovibrio themophilus	DSM 1276	65							0.3	0.2				23.4					4.1		9.6	39.6					0.8	12.9					7.7	0.3	0.9		0.2
-Table 3	Desulfuromonas acetoxidans	DSM 684	30			0.1	0.1	2.1	<0.1	4.4	0.4	0.8			0.1		37.3	0.5	2.6	47.3	0.2	0.7		0.4	0.6			0.8		<0.1	0.8		<0.1	0.4		0.2		0.2
-Table 3	Sulfurospirillum deleyianum		30			0.3		3.1		<0.1	<0.1	0.1	1.0				50.1	1.1	1.3	31.8				<0.1	0.5			0.2			9.7	0.2	0.1	0.2		<0.1		0.3
+Tax ID	Species	Strain	Temp	Notes	I-C14:0	C14:1ω7	C14:1	C14:0	Br-C15:1	I-C15:0	A-C15:0	C15:1ω6	C15:0	Br-C16:1ω6	I-C16:0	C16:1ω9	C16:1ω7c	C16:1ω7t	C16:1ω5	C16:0	I-C17:1ω7	I-C17:0	A-C17:0	C17:1ω8	C17:1ω6	9,10Cyc-C17:0	Cyc-C17:0	C17:0	I-C18:0	C18:1ω9	C18:1ω7c	C18:1ω7t	C18:1ω5	C18:0	I-C19:0	A-C19:0	Cyc-C19:0	Other
+	"Fat Vibrio"	AcKo	24	Species name might be in Widdel 1987 Archives of Microbiology	<0.1	0.2	0.1	5.5	0.3	3.5	<0.1	<0.1	0.1	<0.1	0.2	0.8	23.9	0.4	1.6	41.5	1.0	0.6	<0.1			18.2	1.1	<0.1		0.1	0.5			<0.1		<0.1	0.3	0.1
+58138	Desulfotomaculum acetoxidans	DSM 771	35					1.3		0.5			0.3			5.9	24.4	0.6	4.8	34.0										1	24.1	0.4	1.4	1.2				0.1
+58138	Desulfotomaculum acetoxidans	DSM 771	35	Grown with volatile fatty acids	0.3			0.6		0.9		0.4	4.5	3.2	2.0	3.5	13.4	<0.1	2.6	22.2				5.2	13.3			7		0.9	17.0		0.9	1.2		0.8		0.1
+886	Desulfovibrio thermophilus	DSM 1276	65							0.3	0.2				23.4					4.1		9.6	39.6					0.8	12.9					7.7	0.3	0.9		0.2
+891	Desulfuromonas acetoxidans	DSM 684	30			0.1	0.1	2.1	<0.1	4.4	0.4	0.8			0.1		37.3	0.5	2.6	47.3	0.2	0.7		0.4	0.6			0.8		<0.1	0.8		<0.1	0.4		0.2		0.2
+65553	Sulfurospirillum deleyianum		30			0.3		3.1		<0.1	<0.1	0.1	1.0				50.1	1.1	1.3	31.8				<0.1	0.5			0.2			9.7	0.2	0.1	0.2		<0.1		0.3

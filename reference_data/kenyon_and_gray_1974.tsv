@@ -1,10 +1,10 @@
-Ref Loc	Species	Strain	C14:0	C15:0	C16:0	C17:0	C18:0	C19:0	C20:0	C14:1	C15:1	C16:1	C17:1	C18:1	C19:1	C20:1	C18:2	Cyc-C17:0
-Table 2	Chlorobium vibrioforme f thiosulfatophilum	1930	12		23		1			<1		52		2				3.0
-Table 2	Chlorobium phaeobacteroides	2430	16		15		<1			1		64		1				1.0
-Table 2	Pelodictyon luteolum	2530	14		21		<1			1		47		<1				11.0
-Table 2	Chlorobium phaeovibroides	2631	10		29		<1			<1		51		2				2.0
-Table 2	Chlorobium limicola f thiosulfatophilum	6230	21		10		<1			2		43		1				21.0
-Table 2	Chlorobium limicola	6330	13		17		<1			2		57						3.0
-Table 3	Chloroflexus aurantiacus	OH-64-fl	<1	<1	12	3.0	14	1.0	1.0		<1	4	3.0	52	3.0	4.0	2.0	
-Table 3	Chloroflexus aurantiacus	OK-70-fl	<1	<1	8	5.0	10	2.0	1.0		<1	3	7.0	46	8.0	5.0	3.0	
-Table 3	Chloroflexus aurantiacus	J-10-fl	<1	<1	17	3.0	27	1.0	1.0		<1	2	1.0	34	2.0	5.0	3.0	
+Tax ID	Species	Strain	C14:0	C15:0	C16:0	C17:0	C18:0	C19:0	C20:0	C14:1	C15:1	C16:1	C17:1	C18:1	C19:1	C20:1	C18:2	Cyc-C17:0
+1098	Chlorobium vibrioforme forma thiosulfatophilum	1930	12		23		1			<1		52		2				3.0
+1096	Chlorobium phaeobacteroides	2430	16		15		<1			1		64		1				1.0
+1100	Pelodictyon luteolum	2530	14		21		<1			1		47		<1				11.0
+1094	Chlorobium phaeovibrioides	2631	10		29		<1			<1		51		2				2.0
+1092	Chlorobium limicola forma thiosulfatophilum	6230	21		10		<1			2		43		1				21.0
+1092	Chlorobium limicola	6330	13		17		<1			2		57						3.0
+1108	Chloroflexus aurantiacus	OH-64-fl	<1	<1	12	3.0	14	1.0	1.0		<1	4	3.0	52	3.0	4.0	2.0	
+1108	Chloroflexus aurantiacus	OK-70-fl	<1	<1	8	5.0	10	2.0	1.0		<1	3	7.0	46	8.0	5.0	3.0	
+1108	Chloroflexus aurantiacus	J-10-fl	<1	<1	17	3.0	27	1.0	1.0		<1	2	1.0	34	2.0	5.0	3.0	

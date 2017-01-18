@@ -1,3 +1,3 @@
-Ref Loc	Species	Strain	Temp	C12:0	I-C13:0	I-C14:0	C14:0	Br-C15:0	I-C16:0	C16:0	C16:1	Br-C17:0	C18:0	C18:1
-Table 3	Spirochaeta stenostrepta	Z1	30			1.6	2.8	70.7	2.0	8.9		12.1	1.8	
-Table 3	Spirochaeta zuelzerae	ATCC 19044	30	1.5	11.1	14.6	19.2	42.9	2.3	3.5	3.3	<0.5	<0.5	1.6
+Tax ID	Species	Strain	Temp	C12:0	I-C13:0	I-C14:0	C14:0	Br-C15:0	I-C16:0	C16:0	C16:1	Br-C17:0	C18:0	C18:1
+152	Spirochaeta stenostrepta	Z1	30			1.6	2.8	70.7	2.0	8.9		12.1	1.8	
+156	Spirochaeta zuelzerae	ATCC 19044	30	1.5	11.1	14.6	19.2	42.9	2.3	3.5	3.3	<0.5	<0.5	1.6

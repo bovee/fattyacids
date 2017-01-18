@@ -1,10 +1,10 @@
-Ref Loc	Species	Strain	Notes	Phase	C12:0	C13:0	C14:0	C15:0	C16:0	C17:0	C18:0	C19:0	C20:0	C16:1	C18:1	Br-C14:0	Br-C15:0	Br-C17:0	Cyc-C17:0	Cyc-C19:0
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Early Exponential			<0.1	0.2	31.4		2.5	0.2	1.6	19.1	36.3	0.2	0.4	1.7	1.9	4.3
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Exponential	<0.1	<0.1		1.3	32.1	0	2.7	<0.1	0.5	15.9	42.9		1.5	0.8	0.6	1.3
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Stationary	<0.1	0.4	<0.1	1.7	26.8	0	1.9		0.9	22.6	38.4		0.7	0.3	3.1	2.9
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Early Exponential			0.2	0.9	38.7		0.3		<0.1	15.2	34.9	0.3	<0.1	0.6	4.9	3.8
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Exponential		0.2	<0.1	2.3	41.1	<0.1	8.4	<0.1	0.4	14.2	27.9	<0.1	<0.1	1.2	0.7	3.2
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Stationary			<0.1	1.4	38.0	<0.1	14.9		1.2	2.1	32.0		2.2	<0.1	0.5	7.6
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Early Exponential			<0.1		39.8	0.3	8.8		2.1	10.4	27.6	0.3	<0.1	<0.1	6.9	3.6
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Exponential	<0.1	0.1	<0.1	0.3	41.5		8.6		<0.1	5.4	26.8			2.4	3.6	10.6
-Table 1	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Stationary	<0.1	<0.1	<0.1	0.8	42.0	0.5	10.1	<0.1	1.8	10.2	22.3		<0.1	<0.1	4.0	5.2
+Tax ID	Species	Strain	Notes	Phase	C12:0	C13:0	C14:0	C15:0	C16:0	C17:0	C18:0	C19:0	C20:0	C16:1	C18:1	Br-C14:0	Br-C15:0	Br-C17:0	Cyc-C17:0	Cyc-C19:0
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Early Exponential			<0.1	0.2	31.4		2.5	0.2	1.6	19.1	36.3	0.2	0.4	1.7	1.9	4.3
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Exponential	<0.1	<0.1		1.3	32.1	0	2.7	<0.1	0.5	15.9	42.9		1.5	0.8	0.6	1.3
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 2.5%	Stationary	<0.1	0.4	<0.1	1.7	26.8	0	1.9		0.9	22.6	38.4		0.7	0.3	3.1	2.9
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Early Exponential			0.2	0.9	38.7		0.3		<0.1	15.2	34.9	0.3	<0.1	0.6	4.9	3.8
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Exponential		0.2	<0.1	2.3	41.1	<0.1	8.4	<0.1	0.4	14.2	27.9	<0.1	<0.1	1.2	0.7	3.2
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 7.5%	Stationary			<0.1	1.4	38.0	<0.1	14.9		1.2	2.1	32.0		2.2	<0.1	0.5	7.6
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Early Exponential			<0.1		39.8	0.3	8.8		2.1	10.4	27.6	0.3	<0.1	<0.1	6.9	3.6
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Exponential	<0.1	0.1	<0.1	0.3	41.5		8.6		<0.1	5.4	26.8			2.4	3.6	10.6
+42565	Halomonas salina	ATCC 49509; F8-10	Salinity @ 20%	Stationary	<0.1	<0.1	<0.1	0.8	42.0	0.5	10.1	<0.1	1.8	10.2	22.3		<0.1	<0.1	4.0	5.2

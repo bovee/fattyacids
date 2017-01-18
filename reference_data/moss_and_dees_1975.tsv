@@ -1,10 +1,10 @@
-Ref Loc	Species	Strain	Temp	Medium	I-C11:0	2OH-I-C11:0	3OH-I-C11:0	3OH-C12:0	I-C14:0	C14:0	3OH-I-C13:0	I-C15:0	C15:0	I-C16:0	C16:1	C16:0	I-C17:1	I-C17:0	C18:1	C18:0
-Table 1	Pseudomonas maltophila	RYS 67; ATCC 13637	37	Trypticase soy agar	5	4	4	2	2	6	4	33	<2	<2	12	10	6	7	2	3
-Table 1	Pseudomonas maltophila	AJ 2082	37	Trypticase soy agar	4	4	4	2	<2	6	5	30	2	<2	14	13	6	8	2	<2
-Table 1	Pseudomonas maltophila	YF-3	37	Trypticase soy agar	5	4	3	<2	3	6	5	30	3	5	11	14	3	5	3	<2
-Table 1	Pseudomonas maltophila	YF-6	37	Trypticase soy agar	5	3	5	2	2	7	4	33	3	3	12	12	3	4	2	<2
-Table 1	Pseudomonas maltophila	YF-8	37	Trypticase soy agar	3	3	3	<2	6	5	2	35	3	11	7	7	4	6	5	<2
-Table 1	Pseudomonas maltophila	P-1	37	Trypticase soy agar	3	3	3	3	<2	6	4	32	4	<2	13	14	3	6	4	2
-Table 1	Pseudomonas maltophila	P-7	37	Trypticase soy agar	4	3	3	3	<2	6	4	36	2	<2	14	12	4	5	4	<2
-Table 1	Pseudomonas maltophila	P-7-2	37	Trypticase soy agar	3	3	3	3	<2	7	3	32	2	<2	14	15	4	5	4	2
-Table 1	Pseudomonas maltophila	P-19	37	Trypticase soy agar	3	3	4	2	2	7	5	36	2	<2	13	14	2	4	3	<2
+Tax ID	Species	Strain	Temp	Medium	I-C11:0	2OH-I-C11:0	3OH-I-C11:0	3OH-C12:0	I-C14:0	C14:0	3OH-I-C13:0	I-C15:0	C15:0	I-C16:0	C16:1	C16:0	I-C17:1	I-C17:0	C18:1	C18:0
+40324	Pseudomonas maltophila	RYS 67; ATCC 13637	37	Trypticase soy agar	5	4	4	2	2	6	4	33	<2	<2	12	10	6	7	2	3
+40324	Pseudomonas maltophila	AJ 2082	37	Trypticase soy agar	4	4	4	2	<2	6	5	30	2	<2	14	13	6	8	2	<2
+40324	Pseudomonas maltophila	YF-3	37	Trypticase soy agar	5	4	3	<2	3	6	5	30	3	5	11	14	3	5	3	<2
+40324	Pseudomonas maltophila	YF-6	37	Trypticase soy agar	5	3	5	2	2	7	4	33	3	3	12	12	3	4	2	<2
+40324	Pseudomonas maltophila	YF-8	37	Trypticase soy agar	3	3	3	<2	6	5	2	35	3	11	7	7	4	6	5	<2
+40324	Pseudomonas maltophila	P-1	37	Trypticase soy agar	3	3	3	3	<2	6	4	32	4	<2	13	14	3	6	4	2
+40324	Pseudomonas maltophila	P-7	37	Trypticase soy agar	4	3	3	3	<2	6	4	36	2	<2	14	12	4	5	4	<2
+40324	Pseudomonas maltophila	P-7-2	37	Trypticase soy agar	3	3	3	3	<2	7	3	32	2	<2	14	15	4	5	4	2
+40324	Pseudomonas maltophila	P-19	37	Trypticase soy agar	3	3	4	2	2	7	5	36	2	<2	13	14	2	4	3	<2

@@ -1,10 +1,10 @@
-Ref Loc	Species	Strain	Temp	I-C14:0	C14:0	I-C15:0	A-C15:0	I-C16:0	C16:0	I-C17:0	A-C17:0	I-C18:0	C18:0	A-C19:0
-Table 3	Rhodothermus marinus	DSM 4252	65	1.4		8.1	20.0	11.4	6.1	25.3	19.9	5.1		
-Table 3	Rhodothermus marinus	DSM 4253	65	0.9		6.6	21.6	7.6	6.3	24.3	26.1	3.5	1.1	0.6
-Table 3	Rhodothermus marinus	PRQ-34	65	0.9		9.1	15.2	9.7	5.8	30.2	20.5	4.8	1.3	0.9
-Table 3	Rhodothermus marinus	PRQ-55	65	0.5		9.1	23.6	9.0	6.1	30.0	23.2	1.1	0.7	
-Table 3	Rhodothermus marinus	NR-29	65			9.1	21.9	2.9	1.9	30.3	20.1	1.0	1.4	
-Table 3	Rhodothermus marinus	NR-32	65			8.7	23.5	2.2	9.0	30.6	22.1	0.8	1.3	
-Table 3	Rhodothermus marinus	FRR-15	65		0.6	12.2	22.7	4.0	10.8	29.2	17.3	0.8	0.8	
-Table 3	Rhodothermus marinus	RM-25	65	0.6		8.8	23.0	6.5	6.0	29.3	22.7	1.5		
-Table 3	Rhodothermus obamensis	JCM 9785	65			12.3	19.4	3.6	3.4	41.0	17.3	1.2		
+Tax ID	Species	Strain	Temp	I-C14:0	C14:0	I-C15:0	A-C15:0	I-C16:0	C16:0	I-C17:0	A-C17:0	I-C18:0	C18:0	A-C19:0
+29549	Rhodothermus marinus	DSM 4252	65	1.4		8.1	20.0	11.4	6.1	25.3	19.9	5.1		
+29549	Rhodothermus marinus	DSM 4253	65	0.9		6.6	21.6	7.6	6.3	24.3	26.1	3.5	1.1	0.6
+29549	Rhodothermus marinus	PRQ-34	65	0.9		9.1	15.2	9.7	5.8	30.2	20.5	4.8	1.3	0.9
+29549	Rhodothermus marinus	PRQ-55	65	0.5		9.1	23.6	9.0	6.1	30.0	23.2	1.1	0.7	
+29549	Rhodothermus marinus	NR-29	65			9.1	21.9	2.9	1.9	30.3	20.1	1.0	1.4	
+29549	Rhodothermus marinus	NR-32	65			8.7	23.5	2.2	9.0	30.6	22.1	0.8	1.3	
+29549	Rhodothermus marinus	FRR-15	65		0.6	12.2	22.7	4.0	10.8	29.2	17.3	0.8	0.8	
+29549	Rhodothermus marinus	RM-25	65	0.6		8.8	23.0	6.5	6.0	29.3	22.7	1.5		
+29549	Rhodothermus obamensis	JCM 9785	65			12.3	19.4	3.6	3.4	41.0	17.3	1.2		
