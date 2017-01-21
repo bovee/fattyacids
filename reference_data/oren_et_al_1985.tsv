@@ -1,9 +1,9 @@
 Tax ID	Species	Strain	Temp	Notes	C14:0	C16:0	C18:0	C14:1	C16:1	C18:1	C20:1	C16:2	C18:2	C18:3
 35624	Oscillatoria limnetica		35	aerobic	<0.5	43.3	3.4	<0.5	16.1	35.8	<0.5	0.9	0.5	<0.5
 35624	Oscillatoria limnetica		35	anaerobic	<0.5	42.8	6.1	<0.5	12.6	38.5	<0.5	<0.5	<0.5	<0.5
-1198	Phormidium	J1	26		17.3	17.9	0.7	28	33.8	2.3	<0.5	<0.5	<0.5	<0.5
+	Phormidium	J1	26		17.3	17.9	0.7	28	33.8	2.3	<0.5	<0.5	<0.5	<0.5
 	"Phormidium-like"	Wadi Natrun	35		4.5	52.0	4.0	<0.5	10.3	29.2	<0.5	<0.5	<0.5	<0.5
-44471	Microcoleus		35		3	50.8	4.0	<0.5	9.9	23.9	8.5	<0.5	<0.5	<0.5
+	Microcoleus		35		3	50.8	4.0	<0.5	9.9	23.9	8.5	<0.5	<0.5	<0.5
 72020	Aphanothece halophytica	PCC 7418	35		<0.5	40.9	2.3	<0.5	28.7	15.0	<0.5	11	2	<0.5
 1184	Plectonema boryanum	594	26		<0.5	27.3	2.0	<0.5	25.8	11.1	<0.5	<0.5	33.8	<0.5
 118562	Spirulina platensis		26		4.8	34.4	5.4	7.7	7.2	14.6	<0.5	<0.5	12.7	13.1

@@ -18,9 +18,9 @@ Tax ID	Species	Strain	C14:0	I-C15:0	A-C15:0	I-C16:1ω6	I-C16:0	C16:1ω7c	C16:0	I
 891	Desulfuromonas acetoxidans		3.6	5.4	1.1			40.6	42.2	0.3			0.7	0.2			0.2	0.8	0.9	1.2		
 2290	Desulfobacter curvatus	ATCC 43919	3.0	3.0				3.0	32.0		11.0					11.0	2.0	15.0	6.0	9.0		
 2292	Desulfobacter latus	ATCC 43918	3.0					10.0	24.0		2.0					2.0	2.0	31.0	12.0	10.0	1.0	
-2289	Desulfobacter	AcBa	31.4	1.6			0.4	5.9	18.6	0.1	9.4					27.3			0.1	0.1	0.2	
+	Desulfobacter	AcBa	31.4	1.6			0.4	5.9	18.6	0.1	9.4					27.3			0.1	0.1	0.2	
 2293	Desulfobacter postgatei	2ac9; DSM 2034	9.5	1.1			0.1	4.9	30.7	0.1	16.5		0.2	0.2		27.0		0.2	0.6	0.3	1.1	
-2289	Desulfobacter	4Ac11; DSM 2057	11.3	2.1			0.2	1.1	32.7	0.2	11.2		0.2			32.7		0.1	0.4	0.2	3.4	
+449305	Desulfobacter	4Ac11; DSM 2057	11.3	2.1			0.2	1.1	32.7	0.2	11.2		0.2			32.7		0.1	0.4	0.2	3.4	
 2291	Desulfobacter hydrogenophilus			12.5			0.2	1.3	30.0	0.4	4.3		0.5			38.8		0.3	0.3	0.2	1.4	
 2358	Desulfomonile tiedjei		9.1	0.3				18.6	26.7							15.5			0.8	20.8		
 2358	Desulfomonile tiedjei		19.1	1.3				15.8	18.1							4.7			1.3	25.9		

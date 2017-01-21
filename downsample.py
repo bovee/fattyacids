@@ -1,6 +1,7 @@
-import pandas as pd
 import os
 import re
+
+import pandas as pd
 
 RAW_PATH = './reference_data'
 
@@ -94,53 +95,59 @@ def med_qual_name(colname):
 # need to check db/other group interactions though
 # (also cyclic group sterochem is never annotated; assumed cis?)
 
+if __name__ == '__main__':
+    lo_table = pd.DataFrame()
+    md_table = pd.DataFrame()
+    for filename in os.listdir(RAW_PATH):
+        file_obj = open(os.path.join(RAW_PATH, filename), 'rb')
+        raw_table = pd.read_csv(file_obj, sep='\t', quoting=3)
 
-lo_table = pd.DataFrame()
-md_table = pd.DataFrame()
-for filename in os.listdir(RAW_PATH):
-    file_obj = open(os.path.join(RAW_PATH, filename), 'rb')
-    raw_table = pd.read_csv(file_obj, sep='\t')
+        # do a little cleanup; first, setting anything not filled into zero
+        raw_table = raw_table.fillna(0)
+        # now, set anything below the LOQ to be 1/3 the LOQ
+        raw_table = raw_table.applymap(lambda x: float(x[1:]) / 3 if
+                                       str(x).startswith('<') else x)
 
-    # do a little cleanup; first, setting anything not filled into zero
-    raw_table = raw_table.fillna(0)
-    # now, set anything below the LOQ to be 1/3 the LOQ
-    raw_table = raw_table.applymap(lambda x: float(x[1:]) / 3 if
-                                   str(x).startswith('<') else x)
+        # copy the data over into scratch tables to
+        #   1. change column names by desired quality level
+        #   2. merge now identical columns (e.g. Other's)
+        for qual in ['lo', 'md']:
+            table = pd.DataFrame()
+            name_f = {
+                'lo': low_qual_name,
+                'md': med_qual_name,
+            }[qual]
+            for col in raw_table.columns:
+                colname = name_f(col)
+                if colname is None:
+                    # append * to the beginning of metadata columns
+                    table['*' + col] = raw_table[col]
+                elif colname in table:
+                    table[colname] += raw_table[col].apply(float)
+                else:
+                    table[colname] = raw_table[col].apply(float)
 
-    # copy the data over into scratch tables to
-    #   1. change column names by desired quality level
-    #   2. merge now identical columns (e.g. Other's)
-    for qual in ['lo', 'md']:
-        table = pd.DataFrame()
-        name_f = {
-            'lo': low_qual_name,
-            'md': med_qual_name,
-        }[qual]
-        for col in raw_table.columns:
-            colname = name_f(col)
-            if colname is None:
-                # append * to the beginning of metadata columns
-                table['*' + col] = raw_table[col]
-            elif colname in table:
-                table[colname] += raw_table[col].apply(float)
-            else:
-                table[colname] = raw_table[col].apply(float)
+            if qual == 'lo':
+                lo_table = pd.concat([lo_table, table])
+            elif qual == 'md':
+                md_table = pd.concat([md_table, table])
 
-        if qual == 'lo':
-            lo_table = pd.concat([lo_table, table])
-        elif qual == 'md':
-            md_table = pd.concat([md_table, table])
+    # replace all the NaN's with 0 or ""'s again (b/c of the
+    # concatenation
+    fillv = {c: ('' if c.startswith('*') else 0) for c in lo_table}
+    lo_table.fillna(fillv, inplace=True)
+    fillv = {c: ('' if c.startswith('*') else 0) for c in md_table}
+    md_table.fillna(fillv, inplace=True)
 
-# replace all the NaN's with 0 or ""'s again (b/c of the
-# concatenation
-fillv = {c: ('' if c.startswith('*') else 0) for c in lo_table}
-lo_table.fillna(fillv, inplace=True)
-fillv = {c: ('' if c.startswith('*') else 0) for c in md_table}
-md_table.fillna(fillv, inplace=True)
+    # now, quality filter out anything with more than 10% "Other"
+    lo_table = lo_table[lo_table['Other'] < 10]
+    md_table = md_table[md_table['Other'] < 10]
 
-# now, quality filter out anything with more than 10% "Other"
-lo_table = lo_table[lo_table['Other'] < 10]
-md_table = md_table[md_table['Other'] < 10]
+    # and filter out anything without a taxonomy id
+    lo_table = lo_table[lo_table['*Tax ID'] != 0]
+    lo_table['*Tax ID'] = lo_table['*Tax ID'].astype(int)
+    md_table = md_table[md_table['*Tax ID'] != 0]
+    md_table['*Tax ID'] = md_table['*Tax ID'].astype(int)
 
-lo_table.to_csv('./lo_qual.tsv', sep='\t', index=False)
-md_table.to_csv('./md_qual.tsv', sep='\t', index=False)
+    lo_table.to_csv('./lo_qual.tsv', sep='\t', index=False, quoting=3)
+    md_table.to_csv('./md_qual.tsv', sep='\t', index=False, quoting=3)

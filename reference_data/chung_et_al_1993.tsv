@@ -6,12 +6,12 @@ Tax ID	Species	Strain	Temp	Notes	I-C14:0	C14:0	I-C15:0	A-C15:0	C15:0	I-C16:0	C16
 29549	Rhodothermus marinus	DSM 4253	60	Medium A	0.5		15.9	20.2		4.1	2.7	37.8	17.2	0.4	0.9	0.3
 29549	Rhodothermus marinus	DSM 4253	60	Medium B	1.6		6.8	24.9		16.5	2.4	20.8	23.6	0.3	3.4	
 29549	Rhodothermus marinus	DSM 4253	60	Medium D	1.5	1.8	3.2	13.4	1.7	10.1	26.2	8.9	14.3	5.6	5.8	9.9
-29548	Rhodothermus	PRQ 36	60	Medium A	0.3		11.2	21.4		2.9	3.3	35.7	24.6		0.6	
-29548	Rhodothermus	PRQ 36	60	Medium B	1.7		6.4	20.2	0.2	22.6	1.5	21.4	22.2	0.4	3.9	
-29548	Rhodothermus	PRQ 41	60	Medium A	0.4		13.3	17.9		5.7	3.3	36.2	21.4		1.6	0.3
-29548	Rhodothermus	PRQ 41	60	Medium B	2.5		6.2	16.4		32.7	1.8	17.6	16.8		6.4	
-29548	Rhodothermus	PRQ 52	60	Medium A	0.2		14.8	22.3		3.0	4.3	36.6	18.5		0.5	0.5
-29548	Rhodothermus	PRQ 52	60	Medium B	3.2		4.3	15.9		39.6	2.8	14.5	14.2		5.9	0.2
+	Rhodothermus	PRQ 36	60	Medium A	0.3		11.2	21.4		2.9	3.3	35.7	24.6		0.6	
+	Rhodothermus	PRQ 36	60	Medium B	1.7		6.4	20.2	0.2	22.6	1.5	21.4	22.2	0.4	3.9	
+	Rhodothermus	PRQ 41	60	Medium A	0.4		13.3	17.9		5.7	3.3	36.2	21.4		1.6	0.3
+	Rhodothermus	PRQ 41	60	Medium B	2.5		6.2	16.4		32.7	1.8	17.6	16.8		6.4	
+	Rhodothermus	PRQ 52	60	Medium A	0.2		14.8	22.3		3.0	4.3	36.6	18.5		0.5	0.5
+	Rhodothermus	PRQ 52	60	Medium B	3.2		4.3	15.9		39.6	2.8	14.5	14.2		5.9	0.2
 274	Thermus thermophilus	HB-8	60	Medium A, 0% NaCl	1.2		31.5	10.8		9.0	0.5	35.2	12.0			
 274	Thermus thermophilus	HB-8	60	Medium B, 0% NaCl	2.0		18.5	18.1		17.5	0.5	20.9	22.1		0.6	
 274	Thermus thermophilus	HB-8	60	Medium A, 1% NaCl	0.8		40.3	3.9		5.7	0.9	36.5	11.8			
